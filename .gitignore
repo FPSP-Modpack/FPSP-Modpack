@@ -1,11 +1,15 @@
 .mixin.out
 asm
 assets
+backups
 bin
+blueprints
 cache
 coremods
 craftpresence
 crash-reports
+CustomDISkins
+data
 Flan
 fonts
 llibrary
