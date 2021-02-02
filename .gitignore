@@ -1,5 +1,6 @@
 .mixin.out
 asm
+assets
 bin
 cache
 coremods
@@ -19,5 +20,6 @@ minetweaker.log
 Model*Boots.png
 OpenComputers*.dll
 options.txt
+readme.txt
 usercache.json
 usernamecache.json
