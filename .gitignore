@@ -5,8 +5,6 @@ backups
 bin
 blueprints
 cache
-config/AntiIDConflict
-config/bbm/AI_Improvements/overrides
 coremods
 craftpresence
 crash-reports
@@ -22,7 +20,12 @@ resourcepacks
 saves
 screenshots
 
+config/AntiIDConflict
+config/bbm/AI_Improvements/overrides
+config/BloodMagic
+
 .ReAuth.cfg
+1213309934
 BotaniaVars.dat
 minetweaker.log
 Model*Armour.png
