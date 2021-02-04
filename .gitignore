@@ -5,11 +5,14 @@ backups
 bin
 blueprints
 cache
+config/AntiIDConflict
+config/AppliedEnergistics2/recipes/generated
 coremods
 craftpresence
 crash-reports
 CustomDISkins
 data
+dumps
 Flan
 fonts
 llibrary
@@ -17,6 +20,7 @@ logs
 mods
 resourcepacks
 saves
+screenshots
 
 .ReAuth.cfg
 BotaniaVars.dat
