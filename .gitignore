@@ -6,7 +6,7 @@ bin
 blueprints
 cache
 config/AntiIDConflict
-config/AppliedEnergistics2/recipes/generated
+config/bbm/AI_Improvements/overrides
 coremods
 craftpresence
 crash-reports
