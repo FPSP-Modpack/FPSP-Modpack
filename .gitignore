@@ -13,7 +13,8 @@ data
 dumps
 Flan
 fonts
-llibrary
+llibrary/debug
+llibrary/lang
 logs
 mods
 resourcepacks
