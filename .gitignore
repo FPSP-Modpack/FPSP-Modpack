@@ -25,6 +25,8 @@ config/AntiIDConflict
 config/bbm/AI_Improvements/overrides
 config/BloodMagic
 config/draconicevolution
+config/tabbychat/singleplayer
+config/traincraft
 
 .ReAuth.cfg
 1213309934
