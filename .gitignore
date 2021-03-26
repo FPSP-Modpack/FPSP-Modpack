@@ -36,6 +36,7 @@ Model*Armour.png
 Model*Boots.png
 OpenComputers*.dll
 options.txt
+ore_distribution.txt
 readme.txt
 usercache.json
 usernamecache.json
