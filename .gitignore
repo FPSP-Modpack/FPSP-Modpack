@@ -31,6 +31,8 @@ mods/1.7.10
 mods/carpentersblocks
 mods/ic2
 mods/OpenSecurity
+mods/railcraft
+mods/VoxelMods
 mods/*.jar
 mods/*.litemod
 mods/ruins_log.txt
