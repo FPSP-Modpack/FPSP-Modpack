@@ -16,7 +16,6 @@ fonts
 llibrary/debug
 llibrary/lang
 logs
-mods
 resourcepacks
 saves
 screenshots
@@ -28,10 +27,19 @@ config/draconicevolution
 config/tabbychat/singleplayer
 config/traincraft
 
+mods/1.7.10
+mods/carpentersblocks
+mods/ic2
+mods/OpenSecurity
+mods/*.jar
+mods/*.litemod
+mods/ruins_log.txt
+
 .ReAuth.cfg
 1213309934
 BotaniaVars.dat
 minetweaker.log
+hs_err_pid*.log
 Model*Armour.png
 Model*Boots.png
 OpenComputers*.dll
