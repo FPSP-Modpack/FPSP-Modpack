@@ -2,7 +2,7 @@
 # From: Minecraft Forums
 
 weight=2
-embed_into_distance=5
+embed_into_distance=4
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
 dimensions=7,3,3
 allowable_overhang=0

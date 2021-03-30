@@ -3,7 +3,8 @@
 # Template: Orthanc
 
 biomesToSpawnIn=crag,badlands,dead forest,dead swamp,deadlands,ominous woods,canyon,canyon ravine,thick ominous woods,volcano,wasteland
-weight=10
+weight=1
+unique=1
 embed_into_distance=1
 acceptable_target_blocks=stone,grass,dirt,sand,gravel,clay
 dimensions=46,12,12

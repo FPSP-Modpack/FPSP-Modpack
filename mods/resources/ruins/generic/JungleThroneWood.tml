@@ -3,7 +3,7 @@
 
 biomesToSpawnIn=jungle,junglehills,mini jungle
 weight=1
-embed_into_distance=1
+embed_into_distance=0
 acceptable_target_blocks=stone,grass,dirt,sand,gravel
 dimensions=4,7,4
 allowable_overhang=1

@@ -3,7 +3,7 @@
 # If you need help, consult template_rules.txt
 biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
 weight=1
-embed_into_distance=1
+embed_into_distance=0
 acceptable_target_blocks=stone,grass,dirt,sand,gravel
 dimensions=5,9,7
 allowable_overhang=0

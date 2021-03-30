@@ -1,0 +1,264 @@
+# Global Options for the Ruins mod
+#
+# tries_per_chunk is the number of times, per chunk, that the generator will
+#     attempt to create a ruin.
+#
+# chance_to_spawn is the chance, out of 100, that a ruin will be generated per
+#     try in this chunk.  This may still fail if the ruin does not have a
+#     suitable place to generate.
+#
+# chance_for_site is the chance, out of 100, that another ruin will attempt to
+#     spawn nearby if a ruin was already successfully spawned.  This bypasses
+#     the normal tries per chunk, so if this chance is set high you may end up
+#     with a lot of ruins even with a low tries per chunk and chance to spawn.
+#
+# specific_<biome name> is the chance, out of 100, that a ruin spawning in the
+#     specified biome will be chosen from the biome specific folder.  If not,
+#     it will choose a generic ruin from the folder of the same name.
+
+tries_per_chunk_normal=6
+chance_to_spawn_normal=3
+chance_for_site_normal=75
+
+tries_per_chunk_nether=6
+chance_to_spawn_nether=3
+chance_for_site_nether=75
+disableRuinSpawnCoordsLogging=true
+
+# minimum distance a template must have from instances of itself
+templateInstancesMinDistance=256
+# minimum distance a template must have from any other template
+anyRuinsMinDistance=64
+# dimension IDs whitelisted for ruins spawning, add custom dimensions IDs here as needed
+allowedDimensions=0,1,-1
+
+# tileentity blocks, those (nonvanilla)blocks which cannot function without storing their nbt data, full name as stick dictates, seperated by commata
+teblocks=
+
+specific_Ocean=0
+specific_Plains=0
+specific_Desert=0
+specific_Extreme Hills=0
+specific_Forest=0
+specific_Taiga=0
+specific_Swampland=0
+specific_River=0
+specific_Hell=0
+specific_Sky=0
+specific_FrozenOcean=0
+specific_FrozenRiver=0
+specific_Ice Plains=0
+specific_Ice Mountains=0
+specific_MushroomIsland=0
+specific_MushroomIslandShore=0
+specific_Beach=0
+specific_DesertHills=0
+specific_ForestHills=0
+specific_TaigaHills=0
+specific_Extreme Hills Edge=0
+specific_Jungle=0
+specific_JungleHills=0
+specific_JungleEdge=0
+specific_Deep Ocean=0
+specific_Stone Beach=0
+specific_Cold Beach=0
+specific_Birch Forest=0
+specific_Birch Forest Hills=0
+specific_Roofed Forest=0
+specific_Cold Taiga=0
+specific_Cold Taiga Hills=0
+specific_Mega Taiga=0
+specific_Mega Taiga Hills=0
+specific_Extreme Hills+=0
+specific_Savanna=0
+specific_Savanna Plateau=0
+specific_Mesa=0
+specific_Mesa Plateau F=0
+specific_Mesa Plateau=0
+specific_Alps=0
+specific_Arctic=0
+specific_Bamboo Forest=0
+specific_Bayou=0
+specific_Bog=0
+specific_Boreal Forest=0
+specific_Canyon=0
+specific_Chaparral=0
+specific_Cherry Blossom Grove=0
+specific_Coniferous Forest=0
+specific_Snowy Coniferous Forest=0
+specific_Crag=0
+specific_Dead Forest=0
+specific_Dead Swamp=0
+specific_Deciduous Forest=0
+specific_Dense Forest=0
+specific_Eucalyptus Forest=0
+specific_Fen=0
+specific_Flower Field=0
+specific_Nibiru=0
+specific_Grassland=0
+specific_Grove=0
+specific_Heathland=0
+specific_Highland=0
+specific_Jade Cliffs=0
+specific_Land of Lakes=0
+specific_Lavender Fields=0
+specific_Lush Desert=0
+specific_Lush Swamp=0
+specific_Maple Woods=0
+specific_Phobos=0
+specific_Moor=0
+specific_Mountain=0
+specific_Mystic Grove=0
+specific_Ominous Woods=0
+specific_Orchard=0
+specific_Origin Valley=0
+specific_Outback=0
+specific_Prairie=0
+specific_Rainforest=0
+specific_Redwood Forest=0
+specific_Sacred Springs=0
+specific_Seasonal Forest=0
+specific_Steppe=0
+specific_Temperate Rainforest=0
+specific_Tropical Rainforest=0
+specific_Wasteland=0
+specific_Wetland=0
+specific_Coral Reef=0
+specific_Kelp Forest=0
+specific_Tropics=0
+specific_moon=0
+specific_marsFlat=0
+specific_asteroids=0
+specific_space=0
+specific_Volcano=0
+specific_Mangrove=0
+specific_Alps Forest=0
+specific_Canyon Ravine=0
+specific_Glacier=0
+specific_Land of Lakes Marsh=0
+specific_Meadow Forest=0
+specific_Oasis=0
+specific_Quagmire=0
+specific_Scrubland=0
+specific_Seasonal Forest Clearing=0
+specific_Silkglades=0
+specific_Spruce Woods=0
+specific_Corrupted Sands=0
+specific_Phantasmagoric Inferno=0
+specific_Boneyard=0
+specific_Visceral Heap=0
+specific_Undergarden=0
+specific_Polar Chasm=0
+specific_Spectral Garden=0
+specific_Ocean Oil Field=0
+specific_Desert Oil Field=0
+specific_Lush River=0
+specific_Sunflower Plains=0
+specific_Desert M=0
+specific_Extreme Hills M=0
+specific_Flower Forest=0
+specific_Taiga M=0
+specific_Swampland M=0
+specific_Dry River=0
+specific_Alpine=0
+specific_Autumn Woods=0
+specific_Birch Forest=0
+specific_Extreme Jungle=0
+specific_Ice Plains Spikes=0
+specific_Forested Hills=0
+specific_Forested Island=0
+specific_Glacier=0
+specific_Green Hills=0
+specific_Green Swamplands=0
+specific_Ice Wasteland=0
+specific_Meadow=0
+specific_Mini Jungle=0
+specific_Jungle M=0
+specific_Mountainous Desert=0
+specific_JungleEdge M=0
+specific_Red Rock Mountains=0
+specific_Mountain Taiga=0
+specific_Pine Forest=0
+specific_Birch Forest M=0
+specific_Birch Forest Hills M=0
+specific_Roofed Forest M=0
+specific_Cold Taiga M=0
+specific_Rainforest=0
+specific_Mega Spruce Taiga=0
+specific_Mega Spruce Taiga=0
+specific_Extreme Hills+ M=0
+specific_Golden Meadow=0
+specific_Oasis=0
+specific_Abstract Plains=0
+specific_Happy Hills=0
+specific_Purgatory=0
+specific_Scorched Valley=0
+specific_Ice Lands=0
+specific_Swamplands=0
+specific_Snowy Plains=0
+specific_Magma Lands=0
+specific_Edenwood Forest=0
+specific_Garden of Eden=0
+specific_Blood Desert=0
+specific_Terran Valley=0
+specific_Rock Mountains=0
+specific_Green Lands=0
+specific_Storage Cell=0
+specific_Twilight Clearing=0
+specific_Dark Forest=0
+specific_Dark Forest Center=0
+specific_Deep Mushroom Forest=0
+specific_Enchanted Forest=0
+specific_Fire Swamp=0
+specific_Twilight Glacier=0
+specific_Twilight Highlands=0
+specific_Highlands Center=0
+specific_Twilight Lake=0
+specific_Firefly Forest=0
+specific_Mushroom Forest=0
+specific_Oak Savanna=0
+specific_Snowy Forest=0
+specific_Twilight Stream=0
+specific_Twilight Swamp=0
+specific_Thornlands=0
+specific_Twilight Forest=0
+specific_Dense Twilight Forest=0
+specific_Limbo=0
+specific_rwg_riverCold=0
+specific_rwg_riverTemperate=0
+specific_rwg_riverHot=0
+specific_rwg_riverWet=0
+specific_rwg_riverOasis=0
+specific_rwg_oceanIce=0
+specific_rwg_oceanCold=0
+specific_rwg_oceanTemperate=0
+specific_rwg_oceanHot=0
+specific_rwg_oceanWet=0
+specific_rwg_oceanOasis=0
+specific_rwg_snowDesert=0
+specific_rwg_snowForest=0
+specific_rwg_coldPlains=0
+specific_rwg_coldForest=0
+specific_rwg_hotPlains=0
+specific_rwg_hotForest=0
+specific_rwg_hotDesert=0
+specific_rwg_plains=0
+specific_rwg_tropical=0
+specific_rwg_redwood=0
+specific_rwg_jungle=0
+specific_rwg_oasis=0
+specific_rwg_temperateForest=0
+specific_Candy Land=0
+specific_Coconut Forest=0
+specific_Pluto=0
+specific_Polongnius=0
+specific_Purple Maple Forest=0
+specific_Sirius B=0
+specific_Venus=0
+specific_Diona=0
+specific_Golden Field=0
+specific_Grassy Plains=0
+specific_Kapteyn B=0
+specific_Koentus=0
+specific_Maple Forest=0
+specific_Mercury=0

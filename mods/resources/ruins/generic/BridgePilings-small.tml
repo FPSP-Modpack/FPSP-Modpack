@@ -1,6 +1,6 @@
 biomesToSpawnIn=shore,river,bayou,beach,blessed bog
 weight=2
-embed_into_distance=5
+embed_into_distance=0
 acceptable_target_blocks=water,ice
 dimensions=9,7,7
 cut_in_buffer=0

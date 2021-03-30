@@ -19,14 +19,15 @@ rule3=2,50,vine-8
 rule4=0,100,mossy_cobblestone
 rule5=0,75,MobSpawner:CaveSpider,MobSpawner:Spider
 rule6=2,50,vine-2
+rule7=0,100,preserveBlock
 
 
 layer
-0,0,0,0,0
-1,1,1,1,0
-1,1,1,1,0
-1,1,1,1,0
-1,1,1,1,0
+7,7,7,7,7
+1,1,1,1,7
+1,1,1,1,7
+1,1,1,1,7
+1,1,1,1,7
 endlayer
 
 layer
