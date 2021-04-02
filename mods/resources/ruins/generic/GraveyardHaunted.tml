@@ -8,7 +8,7 @@ weight=3
 acceptable_target_blocks=stone,grass,dirt,sand,gravel
 embed_into_distance=1
 dimensions=5,21,26
-max_leveling=4
+max_leveling=5
 max_cut_in=9
 
 # stonebricks (20% cracked)

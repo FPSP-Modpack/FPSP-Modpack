@@ -12,6 +12,7 @@ leveling_buffer=0
 preserve_water=0
 preserve_lava=0
 preserve_plants=1
+preventRotation=1
 
 rule1=0,100,minecraft:cobblestone-0
 rule2=0,100,Skull:0:0-4
