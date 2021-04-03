@@ -2,7 +2,7 @@
 # Author: Arrrg
 # From: Minecraft Forums
 
-biomesToSpawnIn=beach,shore,overgrown beach
+# biomesToSpawnIn=beach,shore,overgrown beach
 weight=2
 embed_into_distance=16
 acceptable_target_blocks=water,ice

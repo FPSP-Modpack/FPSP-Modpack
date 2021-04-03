@@ -1,7 +1,7 @@
 # Sand Trap
 # Author: Arrrg
 # From: Minecraft Forums
-biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
+# biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
 weight=8
 embed_into_distance=11
 acceptable_target_blocks=stone,grass,dirt,sand,gravel,sandstone,snow_layer
@@ -18,9 +18,9 @@ preserve_plants=0
 
 rule1=0,100,preserveBlock
 rule2=0,100,preserveBlock
-rule3=0,100,fpsp:tile.redSandstone
+rule3=0,100,sandstone
 rule4=0,100,flowing_water,clay,clay,clay,clay,preserveBlock,preserveBlock,preserveBlock
-rule5=0,100,sand-1
+rule5=0,100,sand
 rule6=0,100,snow_layer
 rule7=0,100,clay
 rule8=0,100,flowing_water

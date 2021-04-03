@@ -1,7 +1,7 @@
 # Converted from schematic
 # THIS TEMPLATE USES DEFAULTS!  Please edit for corrections.
 # If you need help, consult template_rules.txt
-biomesToSpawnIn=jungle,junglehills,mini jungle
+# biomesToSpawnIn=jungle,junglehills,mini jungle
 weight=1
 embed_into_distance=1
 acceptable_target_blocks=stone,grass,dirt,sand,gravel

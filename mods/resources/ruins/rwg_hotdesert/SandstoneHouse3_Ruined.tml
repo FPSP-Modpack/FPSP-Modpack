@@ -1,7 +1,7 @@
 # Converted from schematic
 # THIS TEMPLATE USES DEFAULTS!  Please edit for corrections.
 # If you need help, consult template_rules.txt
-biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
+# biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
 weight=1
 embed_into_distance=1
 acceptable_target_blocks=stone,grass,dirt,sand,gravel
@@ -16,10 +16,10 @@ preserve_lava=0
 preserve_plants=0
 
 
-rule1=0,100,fpsp:tile.redSandstone
+rule1=0,100,sandstone
 rule2=0,100,dirt
-rule3=0,100,fpsp:tile.redSandstone-2
-rule4=0,100,fpsp:tile.redSandstoneSlab
+rule3=0,100,sandstone-2
+rule4=0,100,stone_slab-1
 
 
 layer

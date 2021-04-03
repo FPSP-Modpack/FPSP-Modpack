@@ -1,7 +1,7 @@
 # Author: d00dv4d3r
 # From: Default Template
 
-biomesToSpawnIn=hell,boneyard,phantasmagoric inferno,corrupted sands,bloody heap,nether,sludgepit,undergarden
+# biomesToSpawnIn=hell,boneyard,phantasmagoric inferno,corrupted sands,bloody heap,nether,sludgepit,undergarden
 weight=1
 embed_into_distance=1
 acceptable_target_blocks=stone,grass,dirt,sand,gravel

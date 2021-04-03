@@ -1,6 +1,6 @@
 # Author: d00dv4d3r
 # From: Default Template
-biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
+# biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
 weight=3
 embed_into_distance=1
 acceptable_target_blocks=stone,grass,dirt,sand,gravel
@@ -14,9 +14,9 @@ preserve_water=0
 preserve_lava=0
 preserve_plants=0
 
-rule1=0,100,air,fpsp:tile.redSandstone,fpsp:tile.redSandstoneSlab
-rule2=0,100,fpsp:tile.redSandstone
-rule3=1,50,fpsp:tile.redSandstone
+rule1=0,100,air,sandstone,stone_slab-1
+rule2=0,100,sandstone
+rule3=1,50,sandstone
 
 layer
 2,2,2,2,2

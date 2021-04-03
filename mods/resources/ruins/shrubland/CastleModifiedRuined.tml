@@ -2,7 +2,7 @@
 # THIS TEMPLATE USES DEFAULTS!  Please edit for corrections.
 # If you need help, consult template_rules.txt
 
-biomesToSpawnIn=autumn hills,autumn woods,bamboo forest,birch forest,bog,boneyard,boreal forest,brushland,chaparral,cherry blossom grove,coniferous forest,deciduous forest,extreme hills,extreme hills edge,fen,field,forest,forested field,forested hills,forested island,foresthills,fungi forest,garden,grassland,green hills,green swamplands,grove,heathland,hell,highland,hot springs,jade cliffs,jungle,junglehills,lavender fields,lush redwoods,lush swamp,magical forest,majestic meadow,mangrove,maplewoods,marsh,meadow,meadow forest,mesa,mini jungle,mountain, mountain ridge,mountain taiga,mystic grove,orchard,outback,overgrown beach,overgrown greens,pasture,pasture meadow,pine forest,plains,prarie,quagmire,rainforest,redwood forest,sacred springs,savanna,savanna plateau,scrubland,seasonal forest,seasonal spruce forest,shield,spruce woods,steppe,sublime shrubland,swampland,taiga,taigahills,temperate rainforest,thick shrubland,thicket,thinned mystic grove,thinned pasture,thinned timber,timber,tropical rainforest,tropics mountain,tundra,wonderous woods,woodland,woodlands,wyvern biome,wetland
+# biomesToSpawnIn=autumn hills,autumn woods,bamboo forest,birch forest,bog,boneyard,boreal forest,brushland,chaparral,cherry blossom grove,coniferous forest,deciduous forest,extreme hills,extreme hills edge,fen,field,forest,forested field,forested hills,forested island,foresthills,fungi forest,garden,grassland,green hills,green swamplands,grove,heathland,hell,highland,hot springs,jade cliffs,jungle,junglehills,lavender fields,lush redwoods,lush swamp,magical forest,majestic meadow,mangrove,maplewoods,marsh,meadow,meadow forest,mesa,mini jungle,mountain, mountain ridge,mountain taiga,mystic grove,orchard,outback,overgrown beach,overgrown greens,pasture,pasture meadow,pine forest,plains,prarie,quagmire,rainforest,redwood forest,sacred springs,savanna,savanna plateau,scrubland,seasonal forest,seasonal spruce forest,shield,spruce woods,steppe,sublime shrubland,swampland,taiga,taigahills,temperate rainforest,thick shrubland,thicket,thinned mystic grove,thinned pasture,thinned timber,timber,tropical rainforest,tropics mountain,tundra,wonderous woods,woodland,woodlands,wyvern biome,wetland
 weight=1
 embed_into_distance=1
 acceptable_target_blocks=stone,grass,dirt,sand,gravel
@@ -26,11 +26,11 @@ rule6=0,100,farmland-7
 rule7=0,100,water
 rule8=0,100,sandstone
 rule9=0,100,double_stone_slab
-rule10=0,100,planks
+rule10=0,100,ExtrabiomesXL:planks-4
 rule11=0,100,netherrack
 rule12=0,100,cobblestone
 rule13=0,100,tallgrass-1
-rule14=0,100,fence
+rule14=0,100,ExtrabiomesXL:fence-5
 rule15=0,100,ladder-4
 rule16=0,100,wheat-7
 rule17=0,100,yellow_flower
@@ -47,8 +47,8 @@ rule27=0,100,ladder-5
 rule28=0,100,stone_brick_stairs-5
 rule29=0,100,stone_brick_stairs-4
 rule30=2,100,torch-2
-rule31=0,100,oak_stairs
-rule32=0,100,oak_stairs-1
+rule31=0,100,ExtrabiomesXL:stairs.japanesemaple
+rule32=0,100,ExtrabiomesXL:stairs.japanesemaple-1
 rule33=0,100,stone_slab-3
 
 

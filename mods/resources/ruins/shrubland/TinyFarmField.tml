@@ -15,7 +15,7 @@ rule1=0,100,grass,grass,dirt
 rule2=1,95,flowing_water,flowing_water,flowing_water,flowing_water,dirt
 rule3=0,80,farmland
 rule4=1,70,wheat-1,wheat-2,wheat-3
-rule5=1,40,fence
+rule5=1,40,ExtrabiomesXL:fence-5
 
 layer
 1,1,1,1,1,1,1

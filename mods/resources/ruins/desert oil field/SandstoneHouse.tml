@@ -1,6 +1,6 @@
 # Author: d00dv4d3r
 # From: Default Template
-biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
+# biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
 weight=3
 embed_into_distance=1
 acceptable_target_blocks=stone,grass,dirt,sand,gravel

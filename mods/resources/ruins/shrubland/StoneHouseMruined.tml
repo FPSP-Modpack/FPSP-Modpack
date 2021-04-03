@@ -14,7 +14,7 @@ preserve_plants=1
 
 
 rule1=0,100,double_stone_slab
-rule2=0,100,planks
+rule2=0,100,ExtrabiomesXL:planks-4
 rule3=0,100,cobblestone
 rule4=0,100,preserveBlock
 rule5=0,100,stone_stairs

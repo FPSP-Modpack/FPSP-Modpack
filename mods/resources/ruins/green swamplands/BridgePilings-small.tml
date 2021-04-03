@@ -1,4 +1,4 @@
-biomesToSpawnIn=shore,river,bayou,beach,blessed bog
+# biomesToSpawnIn=shore,river,bayou,beach,blessed bog
 weight=2
 embed_into_distance=0
 acceptable_target_blocks=water,ice

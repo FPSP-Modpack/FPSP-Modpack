@@ -1,7 +1,7 @@
 # Author: AtomicStryker
 # From: Default Template
 
-biomesToSpawnIn=jungle,junglehills,mini jungle
+# biomesToSpawnIn=jungle,junglehills,mini jungle
 weight=1
 embed_into_distance=0
 acceptable_target_blocks=stone,grass,dirt,sand,gravel

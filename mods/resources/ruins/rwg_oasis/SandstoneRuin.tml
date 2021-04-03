@@ -1,6 +1,6 @@
 # Author: thecraww
 # From: Minecraft Forums
-biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
+# biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
 weight=1
 embed_into_distance=1
 acceptable_target_blocks=sand,sandstone

@@ -1,6 +1,6 @@
 # Author: thecraww
 # From: Minecraft Forums
-biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
+# biomesToSpawnIn=desert,desert oil field,deserthills,dunes,lush desert,mountainous desert
 weight=1
 embed_into_distance=1
 acceptable_target_blocks=sand,sandstone
@@ -14,12 +14,12 @@ preserve_water=0
 preserve_lava=0
 preserve_plants=0
 
-rule1=0,100,sand-1,fpsp:tile.redSandstone
-rule2=0,100,sand-1,fpsp:tile.redSandstone
-rule3=1,50,sand-1,fpsp:tile.redSandstone
-rule4=1,50,fpsp:tile.redSandstone
-rule5=2,33,fpsp:tile.redSandstone
-rule6=1,33,fpsp:tile.redSandstone
+rule1=0,100,sand,sandstone
+rule2=0,100,sand,sandstone
+rule3=1,50,sand,sandstone
+rule4=1,50,sandstone
+rule5=2,33,sandstone
+rule6=1,33,sandstone
 rule7=0,1,HardMobSpawn
 
 layer
