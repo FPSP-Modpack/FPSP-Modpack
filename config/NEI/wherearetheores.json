@@ -1,0 +1,2080 @@
+{
+  "showDebug": false,
+  "textOffset": 20,
+  "lineHeight": 10,
+  "tooltipOffsetX": 8,
+  "tooltipOffsetY": -12,
+  "ores": {
+    "oreQuartz": {
+      "Nether": [
+        "Max Vein Size: 14",
+        "Attempts per Chunk: 16",
+        "Y-Level: 10 to 117"
+      ]
+    },
+    "oreNetherCopper": {
+      "Nether": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 9",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherSteel": {
+      "Nether": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 4",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherSaltpeter": {
+      "Nether": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 7",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherAmber": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 6",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherNickel": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 5",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherSilver": {
+      "Nether": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 7",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherSalt": {
+      "Nether": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 6",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherEmerald": {
+      "Nether": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 4",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherSulfur": {
+      "Nether": [
+        "Max Vein Size: 13",
+        "Attempts per Chunk: 13",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherLapis": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 7",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherGold": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 9",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherRedstone": {
+      "Nether": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 7",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherCoal": {
+      "Nether": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 9",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherLead": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 7",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherSapphire": {
+      "Nether": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 7",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherRuby": {
+      "Nether": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 7",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherDiamond": {
+      "Nether": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherIron": {
+      "Nether": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 9",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreNetherPeridot": {
+      "Nether": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 7",
+        "Y-Level: 1 to 126"
+      ]
+    },
+    "oreAlphere": {
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 2,1%",
+        "Thickness: 0,05"
+      ]
+    },
+    "[GalacticraftAmunRa:tile.baseBlockRock:14;GalacticraftAmunRa:item.baseItem:26": {
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 0,9%",
+        "Thickness: 0,05"
+      ]
+    },
+    "oreBecterialFossil": {
+      "Seth": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 63"
+      ]
+    },
+    "oreChionite": {
+      "Anubis": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 9",
+        "Y-Level: 8 to 44"
+      ]
+    },
+    "orePurpleCrystal": {
+      "Neper": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 5",
+        "Y-Level: 2 to 31"
+      ]
+    },
+    "orePromethean": {
+      "Xathius": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 7",
+        "Y-Level: 4 to 39"
+      ]
+    },
+    "oreEvenium": {
+      "Purgot": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 5",
+        "Y-Level: 2 to 13"
+      ]
+    },
+    "oreHeartium": {
+      "Zollus": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 4",
+        "Y-Level: 6 to 10"
+      ]
+    },
+    "oreJelly": {
+      "Fronos": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 9 per Variant",
+        "Y-Level: 0 to 255"
+      ]
+    },
+    "oreBlackDiamond": {
+      "Kriffon": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 47"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 2,1%",
+        "Thickness: 0,1"
+      ]
+    },
+    "oreNamerium": {
+      "Kapteyn B": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 9",
+        "Y-Level: 16 to 31"
+      ]
+    },
+    "oreVirinium": {
+      "Eden": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 6",
+        "Y-Level: 4 to 11"
+      ],
+      "Purgot": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 63"
+      ]
+    },
+    "oreEMP": {
+      "T Ceti Д": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 5",
+        "Y-Level: 2 to 31"
+      ]
+    },
+    "oreNorium": {
+      "T Ceti Д": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 63"
+      ],
+      "Zollus": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 4",
+        "Y-Level: 2 to 15"
+      ]
+    },
+    "oreIchorius": {
+      "Nibiru": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 9",
+        "Y-Level: 16 to 31"
+      ]
+    },
+    "oreRedGem": {
+      "Nibiru": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 13",
+        "Y-Level: 0 to 23"
+      ],
+      "Kriffon": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 71"
+      ]
+    },
+    "oreChalcedony": {
+      "Barnarda Ζ": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 8",
+        "Y-Level: 32 to 63"
+      ]
+    },
+    "oreCentaurium": {
+      "α Centauri Bb": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 31"
+      ]
+    },
+    "orePinkQuartz": {
+      "α Centauri Bb": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 5",
+        "Y-Level: 10 to 63"
+      ]
+    },
+    "oreFlonium": {
+      "Polongnius": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 5",
+        "Y-Level: 16 to 23"
+      ]
+    },
+    "oreCarnelian": {
+      "Barnarda Ε": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
+        "Y-Level: 5 to 6"
+      ]
+    },
+    "oreFronisium": {
+      "Diona": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 13",
+        "Y-Level: 0 to 35"
+      ]
+    },
+    "oreQuontonium": {
+      "Diona": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 17",
+        "Y-Level: 0 to 63"
+      ]
+    },
+    "oreBismuth": {
+      "Makemake": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "oreOnyx": {
+      "Haumea": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 48 to 71"
+      ]
+    },
+    "oreXeonium": {
+      "Pluto": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 4",
+        "Y-Level: 16 to 47"
+      ],
+      "Maahes": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 5",
+        "Y-Level: 19 to 49"
+      ]
+    },
+    "orePlutonium": {
+      "Pluto": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 5",
+        "Y-Level: 2 to 15"
+      ],
+      "Barnarda Ζ": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
+        "Y-Level: 16 to 31"
+      ]
+    },
+    "oreIridium": {
+      "Vega ב": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 2",
+        "Y-Level: 2 to 15"
+      ],
+      "Fronos": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 13",
+        "Y-Level: 0 to 31"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 2,1%",
+        "Thickness: 0,15"
+      ]
+    },
+    "oreWhiteCrystal": {
+      "Vega ב": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 63"
+      ],
+      "Koentus": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 9",
+        "Y-Level: 0 to 47"
+      ]
+    },
+    "oreMithril": {
+      "Triton": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 7",
+        "Y-Level: 10 to 29"
+      ],
+      "Barnarda Ζ": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 2",
+        "Y-Level: 8 to 15"
+      ]
+    },
+    "oreUranium": {
+      "Triton": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 31"
+      ],
+      "Kapteyn B": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 13",
+        "Y-Level: 0 to 63"
+      ],
+      "Anubis": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 3",
+        "Y-Level: 0 to 15"
+      ],
+      "Horus": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 13"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 3,6%",
+        "Thickness: 0,05"
+      ]
+    },
+    "orePlatinum": {
+      "Proteus": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 7",
+        "Y-Level: 5 to 19"
+      ],
+      "T Ceti Д": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 15"
+      ],
+      "Xathius": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 9",
+        "Y-Level: 2 to 19"
+      ]
+    },
+    "oreMercurianIron": {
+      "Mercury": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 2",
+        "Y-Level: 2 to 7"
+      ]
+    },
+    "oreRhodium": {
+      "Titan": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 16",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "oreAdamantite": {
+      "Oberon": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 13",
+        "Y-Level: 10 to 29"
+      ],
+      "Haumea": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 24 to 47"
+      ]
+    },
+    "oreJade": {
+      "Miranda": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 23"
+      ]
+    },
+    "orePetalite": {
+      "Titan": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 16",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "oreFrozenIron": {
+      "Enceladus": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 63"
+      ],
+      "Pluto": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 8",
+        "Y-Level: 48 to 63"
+      ],
+      "Kapteyn B": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 16",
+        "Y-Level: 12 to 31"
+      ]
+    },
+    "oreCitrine": {
+      "Venus": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 13",
+        "Y-Level: 2 to 255"
+      ]
+    },
+    "oreMetalMeteoricIron": {
+      "Io": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 13",
+        "Y-Level: 40 to 59"
+      ],
+      "α Centauri Bb": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 63"
+      ]
+    },
+    "oreMetallic": {
+      "Mercury": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 3",
+        "Y-Level: 2 to 15"
+      ],
+      "α Centauri Bb": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 63"
+      ]
+    },
+    "oreEuropium": {
+      "Europa": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 12",
+        "Y-Level: 2 to 15"
+      ],
+      "Makemake": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 16",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "orePalladium": {
+      "Callisto": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 10",
+        "Y-Level: 2 to 31"
+      ],
+      "Polongnius": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 7",
+        "Y-Level: 0 to 35"
+      ]
+    },
+    "oreMagnesium": {
+      "Ganymede": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 17",
+        "Y-Level: 30 to 59"
+      ]
+    },
+    "oreIlmenite": {
+      "Asteroids": [
+        "Asteroid Core:",
+        "Probability: 23,5%",
+        "Thickness: 0,15"
+      ],
+      "Ganymede": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 7",
+        "Y-Level: 10 to 29"
+      ],
+      "Kuiper Belt": [
+        "Asteroid Core:",
+        "Probability: 33,3%",
+        "Thickness: 0,15"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 9,1%",
+        "Thickness: 0,15"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 8,5%",
+        "Thickness: 0,15"
+      ]
+    },
+    "oreTungsten": {
+      "Ceres": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 5",
+        "Y-Level: 2 to 15"
+      ],
+      "Proteus": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 13",
+        "Y-Level: 20 to 59"
+      ],
+      "Fronos": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 31"
+      ],
+      "Sirius B": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 13",
+        "Y-Level: 0 to 31"
+      ]
+    },
+    "oreOriharukon": {
+      "Deimos": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 7",
+        "Y-Level: 10 to 29"
+      ],
+      "Haumea": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 23"
+      ]
+    },
+    "oreCobalt": {
+      "Phobos": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 7",
+        "Y-Level: 10 to 29"
+      ],
+      "Kriffon": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 34"
+      ],
+      "Purgot": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 5",
+        "Y-Level: 2 to 13"
+      ]
+    },
+    "oreHeeEndPowder": {
+      "The End": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 22",
+        "Y-Level: 35 to 126",
+        "",
+        "Can be found on",
+        "End Blobs"
+      ]
+    },
+    "oreSodalite": {
+      "The End": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 4",
+        "Y-Level: 10 to 59"
+      ]
+    },
+    "oreCheese": {
+      "Moon": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 13",
+        "Y-Level: 0 to 127"
+      ]
+    },
+    "oreDesh": {
+      "Mars": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 16",
+        "Y-Level: 30 to 63"
+      ],
+      "Phobos": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 13",
+        "Y-Level: 30 to 63"
+      ],
+      "Deimos": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 13",
+        "Y-Level: 30 to 63"
+      ],
+      "Eden": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 5",
+        "Y-Level: 4 to 29"
+      ]
+    },
+    "oreHeeStardust": {
+      "The End": [
+        "12% to 27% (per block)",
+        "chance to replace",
+        "Sphalerite",
+        "",
+        "Can be found on",
+        "End Blobs"
+      ]
+    },
+    "oreHeeIgneousRock": {
+      "The End": [
+        "Can be found on",
+        "End Blobs"
+      ]
+    },
+    "oreHeeEndium": {
+      "The End": [
+        "Can be found on",
+        "End Blobs, which are",
+        "500 or more blocks",
+        "away from 0/0"
+      ]
+    },
+    "oreHeeInstabilityOrb": {
+      "The End": [
+        "Can be found on",
+        "End Blobs"
+      ]
+    },
+    "oreTopaz": {
+      "Twilight Forest": [
+        "Max Vein Size: 1",
+        "Attempts per Chunk: 15",
+        "Y-Level: 4 to 31",
+        "",
+        "Only generates in the",
+        "following biomes:",
+        "Twilight Clearing",
+        "Twilight Lake",
+        "Twilight Stream",
+        "Twilight Swamp"
+      ]
+    },
+    "oreTanzanite": {
+      "Twilight Forest": [
+        "Max Vein Size: 1",
+        "Attempts per Chunk: 15",
+        "Y-Level: 4 to 31",
+        "",
+        "Only generates in the",
+        "following biomes:",
+        "Dark Forest Center",
+        "Enchanted Forest",
+        "Snowy Forest",
+        "Twilight Highlands"
+      ]
+    },
+    "oreMalachite": {
+      "Twilight Forest": [
+        "Max Vein Size: 1",
+        "Attempts per Chunk: 15",
+        "Y-Level: 4 to 31",
+        "",
+        "Only generates in the",
+        "following biomes:",
+        "Fire Swamp",
+        "Highlands Center",
+        "Thornlands",
+        "Twilight Glacier"
+      ]
+    },
+    "oreElectrotine": {
+      "Twilight Forest": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 4",
+        "Y-Level: 0 to 15"
+      ]
+    },
+    "oreChargedCertusQuartz": {
+      "Twilight Forest": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 2",
+        "Y-Level: 2 to 32"
+      ],
+      "Callisto": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 16",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "orePyrite": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 59"
+      ]
+    },
+    "oreCinnabar": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 59"
+      ]
+    },
+    "oreSphalerite": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 59"
+      ]
+    },
+    "oreFirestone": {
+      "Nether": [
+        "Max Vein Size: 1",
+        "Y-Level: 0 to 30",
+        "",
+        "10% chance (per chunk)",
+        "that an ore is attempted",
+        "to generate",
+        "Only generates at the",
+        "bottom of a lava lake"
+      ]
+    },
+    "oreSteel": {
+      "Neper": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 17",
+        "Y-Level: 30 to 69",
+        "",
+        "Can only be found",
+        "in Urbolite"
+      ]
+    },
+    "oreSaltpeter": {
+      "Io": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 13",
+        "Y-Level: 30 to 59"
+      ],
+      "Oasis": [
+        "Max Vein Size: 16",
+        "Attempts per Chunk: 12",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "oreAmber": {
+      "Twilight Forest": [
+        "Max Vein Size: 1",
+        "Attempts per Chunk: 15",
+        "Y-Level: 4 to 31",
+        "",
+        "Only generates in the",
+        "following biomes:",
+        "Dark Forest",
+        "Deep Mushroom Forest",
+        "Dense Forest",
+        "Firefly Forest",
+        "Mushroom Forest",
+        "Oak Savanna",
+        "Twilight Forest"
+      ]
+    },
+    "oreNickel": {
+      "Twilight Forest": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 3",
+        "Y-Level: 5 to 20"
+      ],
+      "Mercury": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 5",
+        "Y-Level: 5 to 19"
+      ],
+      "Pluto": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 47"
+      ],
+      "Kriffon": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 63"
+      ]
+    },
+    "oreSilver": {
+      "Twilight Forest": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 4",
+        "Y-Level: 0 to 31"
+      ],
+      "Ceres": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 10",
+        "Y-Level: 2 to 31"
+      ],
+      "T Ceti Д": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 47"
+      ],
+      "Oasis": [
+        "Max Vein Size: 16",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "oreMinicio": {
+      "Nether": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 25",
+        "Y-Level: 0 to 255"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 25",
+        "Y-Level: 0 to 45"
+      ],
+      "The End": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 25",
+        "Y-Level: 0 to 255"
+      ]
+    },
+    "oreBauxite": {
+      "Overworld": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 11",
+        "Y-Level: 10 to 59"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 11",
+        "Y-Level: 10 to 59"
+      ]
+    },
+    "oreTetrahedrite": {
+      "Overworld": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 59"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 59"
+      ]
+    },
+    "oreGalena": {
+      "Overworld": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 59"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 59"
+      ]
+    },
+    "oreCertusQuartz": {
+      "Overworld": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 25",
+        "Y-Level: 12 to 72"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 25",
+        "Y-Level: 12 to 72"
+      ],
+      "Callisto": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 16",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "[wildcaves3:FossilBlock;GalacticraftAmunRa:tile.oldConcreteOre:1": {
+      "Overworld": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 40",
+        "Y-Level: 1 to 89"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 40",
+        "Y-Level: 1 to 89"
+      ],
+      "Neper": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 13",
+        "Y-Level: 30 to 69",
+        "",
+        "Can only be found",
+        "in Urbolite"
+      ]
+    },
+    "oreSilicon": {
+      "Overworld": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 4",
+        "Y-Level: 0 to 24"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 4",
+        "Y-Level: 0 to 24"
+      ],
+      "Asteroids": [
+        "Asteroid Core:",
+        "Probability: 11,8%",
+        "Thickness: 0,15"
+      ],
+      "Diona": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 4",
+        "Y-Level: 0 to 24"
+      ],
+      "Fronos": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 4",
+        "Y-Level: 0 to 24"
+      ],
+      "Seth": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 17"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 10,9%",
+        "Thickness: 0,15"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 4,3%",
+        "Thickness: 0,15"
+      ]
+    },
+    "oreAluminium": {
+      "Overworld": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 19",
+        "Y-Level: 0 to 44"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 19",
+        "Y-Level: 0 to 44"
+      ],
+      "Asteroids": [
+        "Asteroid Core:",
+        "Probability: 29,4%",
+        "Thickness: 0,2"
+      ],
+      "Mercury": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 8",
+        "Y-Level: 48 to 127"
+      ],
+      "Kuiper Belt": [
+        "Asteroid Core:",
+        "Probability: 41,7%",
+        "Thickness: 0,2"
+      ],
+      "Diona": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 19",
+        "Y-Level: 0 to 44"
+      ],
+      "Eden": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 10",
+        "Y-Level: 2 to 71"
+      ],
+      "Maahes": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 17",
+        "Y-Level: 23 to 69"
+      ],
+      "Anubis": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 24",
+        "Y-Level: 0 to 59"
+      ],
+      "Seth": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 11",
+        "Y-Level: 2 to 59"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 13,6%",
+        "Thickness: 0,2"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 10,6%",
+        "Thickness: 0,2"
+      ]
+    },
+    "oreSalt": {
+      "Overworld": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 30",
+        "Y-Level: 0 to 127"
+      ]
+    },
+    "oreSulfur": {
+      "Overworld": [
+        "Max Vein Size: 14",
+        "Attempts per Chunk: 16",
+        "Y-Level: 10 to 117",
+        "",
+        "Only generates in",
+        "mountainous biomes and",
+        "only near lava"
+      ],
+      "Io": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 13",
+        "Y-Level: 20 to 59"
+      ],
+      "Venus": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 5",
+        "Y-Level: 5 to 19"
+      ],
+      "Sirius B": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 19",
+        "Y-Level: 0 to 47"
+      ],
+      "Oasis": [
+        "Max Vein Size: 16",
+        "Attempts per Chunk: 10",
+        "Y-Level: 2 to 127"
+      ]
+    },
+    "orePeridot": {
+      "Overworld": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 2",
+        "Y-Level: 16 to 27"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 2",
+        "Y-Level: 16 to 27"
+      ],
+      "Europa": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 47"
+      ]
+    },
+    "oreDraconium": {
+      "Overworld": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 2",
+        "Y-Level: 2 to 7"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 2",
+        "Y-Level: 2 to 7"
+      ],
+      "Nether": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 5",
+        "Y-Level: 1 to 124"
+      ],
+      "The End": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 10",
+        "Y-Level: 1 to 69",
+        "",
+        "10% chance (per Block)",
+        "to generate in an",
+        "Ender Comet's core",
+        "5% chance (per Block)",
+        "to generate in an",
+        "Ender Comet's trail"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 2,1%",
+        "Thickness: 0,05"
+      ]
+    },
+    "oreLead": {
+      "Overworld": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 9",
+        "Y-Level: 0 to 63"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 9",
+        "Y-Level: 0 to 63"
+      ],
+      "Mercury": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 7",
+        "Y-Level: 20 to 39"
+      ],
+      "Venus": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 10",
+        "Y-Level: 20 to 127"
+      ],
+      "Horus": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 17",
+        "Y-Level: 2 to 69"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 7,3%",
+        "Thickness: 0,2"
+      ]
+    },
+    "oreSapphire": {
+      "Overworld": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 1",
+        "Y-Level: 12 to 19"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 1",
+        "Y-Level: 12 to 19"
+      ],
+      "Europa": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 47"
+      ]
+    },
+    "oreRuby": {
+      "Overworld": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 1",
+        "Y-Level: 12 to 19"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 1",
+        "Y-Level: 12 to 19"
+      ],
+      "Europa": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 47"
+      ],
+      "Horus": [
+        "Max Vein Size: 13",
+        "Attempts per Chunk: 13",
+        "Y-Level: 8 to 49"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 0,9%",
+        "Thickness: 0,1"
+      ]
+    },
+    "oreTin": {
+      "Overworld": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 28",
+        "Y-Level: 0 to 39"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 28",
+        "Y-Level: 0 to 39"
+      ],
+      "Moon": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 24",
+        "Y-Level: 0 to 59"
+      ],
+      "Mars": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 24",
+        "Y-Level: 0 to 59"
+      ],
+      "Phobos": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 13",
+        "Y-Level: 2 to 63"
+      ],
+      "Deimos": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 13",
+        "Y-Level: 2 to 63"
+      ],
+      "Mercury": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 9",
+        "Y-Level: 2 to 31"
+      ],
+      "Venus": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 71"
+      ],
+      "Koentus": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 23",
+        "Y-Level: 0 to 63"
+      ],
+      "Diona": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 23",
+        "Y-Level: 0 to 60"
+      ],
+      "Polongnius": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 23",
+        "Y-Level: 0 to 59"
+      ],
+      "Kapteyn B": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 23",
+        "Y-Level: 0 to 59"
+      ],
+      "Fronos": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 23",
+        "Y-Level: 0 to 59"
+      ],
+      "Eden": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 6",
+        "Y-Level: 4 to 119"
+      ],
+      "Zollus": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 8",
+        "Y-Level: 4 to 59"
+      ],
+      "Seth": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 59"
+      ]
+    },
+    "[minecraft:glowstone;GalaxySpace:ceresglowstone;GalaxySpace:plutoglowstone;GalaxySpace:ioglowstone;GalaxySpace:enceladusglowstone;GalaxySpace:proteusglowstone;MorePlanet:alien_glowstone": {
+      "Nether": [
+        "Can be found at",
+        "the Nether ceiling"
+      ],
+      "Twilight Forest": [
+        "Can be found as",
+        "Stalactites in small",
+        "medium and large",
+        "Hollow Hills"
+      ],
+      "Ceres": [
+        "Can be found in dungeons"
+      ],
+      "Asteroids": [
+        "Can be found in",
+        "hollow icy Asteroids"
+      ],
+      "Io": [
+        "Can be found in dungeons"
+      ],
+      "Enceladus": [
+        "Can be found in dungeons"
+      ],
+      "Proteus": [
+        "Can be found in dungeons"
+      ],
+      "Pluto": [
+        "Can be found in dungeons"
+      ],
+      "Mehen Belt": [
+        "Can be found in",
+        "hollow icy Asteroids"
+      ],
+      "Dark Asteroids": [
+        "Can be found in",
+        "hollow icy Asteroids"
+      ]
+    },
+    "oreSiriusGlowstone": {
+      "Sirius B": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 13",
+        "Y-Level: 0 to 255"
+      ]
+    },
+    "[GalacticraftCore:tile.fallenMeteor;GalacticraftCore:item.meteoricIronRaw": {
+      "§9§oLower is better!": [],
+      "Meteor Frequency: 0,1": [
+        "T Ceti Д"
+      ],
+      "Meteor Frequency: 1,5": [
+        "Horus"
+      ],
+      "Meteor Frequency: 2": [
+        "Anubis"
+      ],
+      "Meteor Frequency: 3": [
+        "Phobos, Deimos, Ceres, Io",
+        "Enceladus, Callisto, Ganymede",
+        "Europa, Triton, Mercury, Venus",
+        "Miranda, Oberon, Proteus, Pluto",
+        "Haumea, Makemake, Vega ב, Eden",
+        "Barnarda Γ/Ζ, α Centauri Bb"
+      ],
+      "Meteor Frequency: 3,5": [
+        "Koentus, Diona"
+      ],
+      "Meteor Frequency: 4": [
+        "Nibiru"
+      ],
+      "Meteor Frequency: 5": [
+        "Kapteyn B, Oasis"
+      ],
+      "Meteor Frequency: 6": [
+        "Zollus"
+      ],
+      "Meteor Frequency: 7": [
+        "Moon, Neper, Maahes, Seth"
+      ],
+      "Meteor Frequency: 8": [
+        "Purgot"
+      ],
+      "Meteor Frequency: 9": [
+        "Kriffon"
+      ],
+      "Meteor Frequency: 10": [
+        "Mars, Polongnius",
+        "Every Asteroid Belt"
+      ],
+      "Meteor Frequency: 20": [
+        "Xathius"
+      ]
+    },
+    "[MorePlanet:fallen_polongnius_meteor;MorePlanet:polongnius_item:2": {
+      "§9§oLower is better!": [],
+      "Polongnius": [
+        "Meteor Frequency: 1,25"
+      ]
+    },
+    "[MorePlanet:fallen_koentus_meteor;MorePlanet:koentus_item:3": {
+      "§9§oLower is better!": [],
+      "Diona": [
+        "Meteor Frequency: 2"
+      ]
+    },
+    "[MorePlanet:fallen_ice_crystal_meteor;MorePlanet:kapteyn-b_item:5": {
+      "§9§oLower is better!": [],
+      "Kapteyn B": [
+        "Meteor Frequency: 3,5"
+      ]
+    },
+    "[GalaxySpace:enceladuscrystal;GalaxySpace:barnardaCcrystal;GalaxySpace:item.UnknowCrystal": {
+      "Barnarda Γ": [],
+      "Enceladus": []
+    },
+    "oreMeteoricIron": {
+      "Ceres": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 17",
+        "Y-Level: 20 to 49"
+      ],
+      "Pluto": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 6",
+        "Y-Level: 32 to 63"
+      ],
+      "Eden": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 5",
+        "Y-Level: 10 to 19"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 4,3%",
+        "Thickness: 0,13"
+      ]
+    },
+    "blockMeteoricIron": {
+      "Asteroids": [
+        "Asteroid Core:",
+        "Probability: 11,8%",
+        "Thickness: 0,13"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 5,5%",
+        "Thickness: 0,13"
+      ]
+    },
+    "oreCoal": {
+      "Overworld": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 20",
+        "Y-Level: 0 to 127"
+      ],
+      "Nether": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 9",
+        "Y-Level: 1 to 126"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 20",
+        "Y-Level: 0 to 127",
+        "",
+        "Can be found as",
+        "Stalactites in small",
+        "medium and large",
+        "Hollow Hills"
+      ],
+      "Venus": [
+        "Max Vein Size: 20",
+        "Attempts per Chunk: 12",
+        "Y-Level: 2 to 255"
+      ],
+      "Barnarda Γ": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 13",
+        "Y-Level: 10 to 69"
+      ],
+      "Nibiru": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 21",
+        "Y-Level: 0 to 127"
+      ],
+      "Eden": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 8",
+        "Y-Level: 2 to 39"
+      ],
+      "Fronos": [
+        "Max Vein Size: 17",
+        "Attempts per Chunk: 21",
+        "Y-Level: 0 to 127"
+      ],
+      "Kriffon": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 10",
+        "Y-Level: 4 to 69"
+      ],
+      "Zollus": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 8",
+        "Y-Level:40 to 69"
+      ],
+      "Seth": [
+        "Max Vein Size: 21",
+        "Attempts per Chunk: 15",
+        "Y-Level: 10 to 59"
+      ]
+    },
+    "oreIron": {
+      "Overworld": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 20",
+        "Y-Level: 0 to 63"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 20",
+        "Y-Level: 0 to 63",
+        "",
+        "Can be found as",
+        "Stalactites in small",
+        "medium and large",
+        "Hollow Hills"
+      ],
+      "Mars": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 21",
+        "Y-Level: 0 to 63"
+      ],
+      "Phobos": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 13",
+        "Y-Level: 2 to 63"
+      ],
+      "Deimos": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 13",
+        "Y-Level: 2 to 63"
+      ],
+      "Asteroids": [
+        "Asteroid Core:",
+        "Probability: 17,2%",
+        "Thickness: 0,2"
+      ],
+      "Mercury": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 13",
+        "Y-Level: 5 to 59"
+      ],
+      "Venus": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 7",
+        "Y-Level: 64 to 256"
+      ],
+      "Miranda": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 9",
+        "Y-Level: 10 to 59"
+      ],
+      "Pluto": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 16",
+        "Y-Level: 16 to 127"
+      ],
+      "Kuiper Belt": [
+        "Asteroid Core:",
+        "Probability: 25%",
+        "Thickness: 0,2"
+      ],
+      "Polongnius": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 21",
+        "Y-Level: 0 to 63"
+      ],
+      "Barnarda Ε": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 13",
+        "Y-Level: 5 to 59"
+      ],
+      "Eden": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 10",
+        "Y-Level: 4 to 59"
+      ],
+      "Fronos": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 21",
+        "Y-Level: 0 to 63"
+      ],
+      "Kriffon": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 10",
+        "Y-Level: 4 to 59"
+      ],
+      "Zollus": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 10",
+        "Y-Level: 4 to 59"
+      ],
+      "Purgot": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 10",
+        "Y-Level: 4 to 59"
+      ],
+      "Neper": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 17",
+        "Y-Level: 2 to 69"
+      ],
+      "Seth": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 59"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 20,9%",
+        "Thickness: 0,2"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 6,4%",
+        "Thickness: 0,2"
+      ]
+    },
+    "oreCopper": {
+      "Overworld": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 68"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 17",
+        "Y-Level: 10 to 68"
+      ],
+      "Moon": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 27",
+        "Y-Level: 0 to 59"
+      ],
+      "Mars": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 27",
+        "Y-Level: 0 to 59"
+      ],
+      "Deimos": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 16",
+        "Y-Level: 2 to 63"
+      ],
+      "Phobos": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 16",
+        "Y-Level: 2 to 63"
+      ],
+      "Io": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 13",
+        "Y-Level: 10 to 59"
+      ],
+      "Mercury": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 11",
+        "Y-Level: 2 to 47"
+      ],
+      "Venus": [
+        "Max Vein Size: 10",
+        "Attempts per Chunk: 4",
+        "Y-Level: 2 to 63"
+      ],
+      "Koentus": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 25",
+        "Y-Level: 0 to 63"
+      ],
+      "Diona": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 25",
+        "Y-Level: 0 to 74"
+      ],
+      "Polongnius": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 25",
+        "Y-Level: 0 to 74"
+      ],
+      "Eden": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 4",
+        "Y-Level: 4 to 119"
+      ],
+      "Kapteyn B": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 4",
+        "Y-Level: 0 to 74"
+      ],
+      "Fronos": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 4",
+        "Y-Level: 0 to 74"
+      ],
+      "Kriffon": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 6",
+        "Y-Level: 4 to 69"
+      ],
+      "Zollus": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 6",
+        "Y-Level: 4 to 69"
+      ],
+      "Purgot": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 6",
+        "Y-Level: 4 to 69"
+      ],
+      "Seth": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 7",
+        "Y-Level: 4 to 59"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 13,6%",
+        "Thickness: 0,2"
+      ]
+    },
+    "oreDiamond": {
+      "Overworld": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 1",
+        "Y-Level: 0 to 15"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 1",
+        "Y-Level: 0 to 15",
+        "",
+        "Can be found as",
+        "Stalactites in large",
+        "Hollow Hills"
+      ],
+      "Asteroids": [
+        "Asteroid Core:",
+        "Probability: 5,8%",
+        "Thickness: 0,1"
+      ],
+      "Venus": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 6",
+        "Y-Level: 5 to 19"
+      ],
+      "Barnarda Γ": [
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 6",
+        "Y-Level: 5 to 14"
+      ],
+      "Nibiru": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 2",
+        "Y-Level: 0 to 15"
+      ],
+      "Eden": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 5",
+        "Y-Level: 10 to 13"
+      ],
+      "Fronos": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 2",
+        "Y-Level: 0 to 15"
+      ],
+      "Sirius B": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 13",
+        "Y-Level: 0 to 31"
+      ],
+      "Purgot": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 6",
+        "Y-Level: 2 to 13"
+      ],
+      "Neper": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 9",
+        "Y-Level: 0 to 11"
+      ],
+      "Horus": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 9",
+        "Y-Level: 2 to 44"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 0,9%",
+        "Thickness: 0,1"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 2,1%",
+        "Thickness: 0,1"
+      ]
+    },
+    "oreRedstone": {
+      "Overworld": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 0 to 15"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 8",
+        "Y-Level: 0 to 15",
+        "",
+        "Can be found as",
+        "Stalactites in medium and",
+        "large Hollow Hills"
+      ],
+      "Venus": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 11",
+        "Y-Level: 2 to 69"
+      ],
+      "Barnarda Γ": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 9",
+        "Y-Level: 5 to 23"
+      ],
+      "Eden": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 24"
+      ],
+      "Kapteyn B": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 9",
+        "Y-Level: 0 to 15"
+      ],
+      "Kriffon": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 11",
+        "Y-Level: 2 to 49"
+      ]
+    },
+    "oreEmerald": {
+      "Overworld": [
+        "Max Vein Size: 1",
+        "Attempts per Chunk: 3 to 9",
+        "Y-Level: 4 to 31",
+        "This Ore generates",
+        "only in Hills, 0,2% chance",
+        "to replace Abyssal Stone"
+      ],
+      "Eden": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 4",
+        "Y-Level: 10 to 11"
+      ],
+      "Fronos": [
+        "Max Vein Size: 2",
+        "Attempts per Chunk: 5",
+        "Y-Level: 0 to 31"
+      ],
+      "Purgot": [
+        "Max Vein Size: 3",
+        "Attempts per Chunk: 4",
+        "Y-Level: 2 to 9"
+      ],
+      "Neper": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 5",
+        "Y-Level: 8 to 31"
+      ],
+      "Horus": [
+        "Max Vein Size: 13",
+        "Attempts per Chunk: 15",
+        "Y-Level: 8 to 41"
+      ],
+      "Mehen Belt": [
+        "Asteroid Core:",
+        "Probability: 0,9%",
+        "Thickness: 0,1"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 2,1%",
+        "Thickness: 0,1"
+      ]
+    },
+    "oreLapis": {
+      "Overworld": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 1",
+        "Y-Level: 0 to 30"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 1",
+        "Y-Level: 0 to 30",
+        "",
+        "Can be found as",
+        "Stalactites in large",
+        "Hollow Hills"
+      ],
+      "Barnarda Γ": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 11",
+        "Y-Level: 5 to 19"
+      ],
+      "Eden": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 24"
+      ],
+      "Fronos": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 2",
+        "Y-Level: 0 to 17"
+      ],
+      "Maahes": [
+        "Max Vein Size: 13",
+        "Attempts per Chunk: 7",
+        "Y-Level: 2 to 19"
+      ],
+      "Anubis": [
+        "Max Vein Size: 13",
+        "Attempts per Chunk: 17",
+        "Y-Level: 0 to 15"
+      ],
+      "Dark Asteroids": [
+        "Asteroid Core:",
+        "Probability: 4,3%",
+        "Thickness: 0,2"
+      ]
+    },
+    "oreGold": {
+      "Overworld": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 2",
+        "Y-Level: 0 to 31"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 2",
+        "Y-Level: 0 to 31",
+        "",
+        "Can be found as",
+        "Stalactites in medium",
+        "and large Hollow Hills"
+      ],
+      "Venus": [
+        "Max Vein Size: 8",
+        "Attempts per Chunk: 9",
+        "Y-Level: 2 to 23"
+      ],
+      "Barnarda Ε": [
+        "Max Vein Size: 5",
+        "Attempts per Chunk: 7",
+        "Y-Level: 5 to 19"
+      ],
+      "Eden": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 7",
+        "Y-Level: 4 to 74"
+      ],
+      "Fronos": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 3",
+        "Y-Level: 0 to 31"
+      ],
+      "Kriffon": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 6",
+        "Y-Level: 4 to 49"
+      ],
+      "Zollus": [
+        "Max Vein Size: 6",
+        "Attempts per Chunk: 5",
+        "Y-Level: 4 to 49"
+      ],
+      "Purgot": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 8",
+        "Y-Level: 4 to 49"
+      ],
+      "Neper": [
+        "Max Vein Size: 9",
+        "Attempts per Chunk: 9",
+        "Y-Level: 2 to 39"
+      ],
+      "Maahes": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 9",
+        "Y-Level: 5 to 29"
+      ],
+      "Anubis": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 13",
+        "Y-Level: 12 to 51"
+      ]
+    },
+    "orePetroleum": {
+      "Overworld": [
+        "Max Vein Size: 15",
+        "Attempts per Chunk: 3",
+        "Y-Level: 10 to 49"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 15",
+        "Attempts per Chunk: 3",
+        "Y-Level: 10 to 49"
+      ]
+    },
+    "oreOilsands": {
+      "Overworld": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 2",
+        "Y-Level: 25 to 74"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 11",
+        "Attempts per Chunk: 2",
+        "Y-Level: 25 to 74"
+      ]
+    },
+    "oreOlivine": {
+      "oreOlivine": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 4",
+        "Y-Level: 10 to 59"
+      ]
+    }
+  }
+}
