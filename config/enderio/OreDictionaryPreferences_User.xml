@@ -1,0 +1,9 @@
+<!--
+Entries in this file take precedence over the values in the core file
+-->
+
+<OreDictionaryPreferences>
+    <preference oreDictionary="ingotBrass">
+        <itemStack modID="techreborn" itemName="ingot" itemMeta="1" />
+    </preference>
+</OreDictionaryPreferences>
