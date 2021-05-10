@@ -48,5 +48,6 @@ OpenComputers*.dll
 options.txt
 ore_distribution.txt
 readme.txt
+stencil*.png
 usercache.json
 usernamecache.json
