@@ -1,6 +1,6 @@
 weight=5
 embed_into_distance=9
-acceptable_target_blocks=stone,grass,dirt,sand,gravel,clay
+acceptable_target_blocks=stone,grass,dirt,sand,gravel,clay,ExtrabiomesXL:terrain_blocks1
 dimensions=9,11,11
 allowable_overhang=8
 max_cut_in=0

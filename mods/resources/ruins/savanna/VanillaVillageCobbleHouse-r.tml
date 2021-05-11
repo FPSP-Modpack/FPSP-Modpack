@@ -15,10 +15,10 @@ max_cut_in=10
 rule1=0,100,preserveBlock
 rule2=0,90,cobblestone,cobblestone,cobblestone,cobblestone,mossy_cobblestone,monster_egg-1
 rule3=0,50,stone_stairs-1
-rule4=0,90,planks
+rule4=0,90,planks-4
 rule5=0,10,glass_pane
-rule6=0,60,log
-rule7=2,50,planks
+rule6=0,60,log2
+rule7=2,50,planks-4
 
 
 layer

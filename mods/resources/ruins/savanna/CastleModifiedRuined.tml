@@ -26,7 +26,7 @@ rule6=0,100,farmland-7
 rule7=0,100,water
 rule8=0,100,sandstone
 rule9=0,100,double_stone_slab
-rule10=0,100,planks
+rule10=0,100,planks-4
 rule11=0,100,netherrack
 rule12=0,100,cobblestone
 rule13=0,100,tallgrass-1
@@ -47,9 +47,9 @@ rule27=0,100,ladder-5
 rule28=0,100,stone_brick_stairs-5
 rule29=0,100,stone_brick_stairs-4
 rule30=2,100,torch-2
-rule31=0,100,oak_stairs
-rule32=0,100,oak_stairs-1
-rule33=0,100,stone_slab-3
+rule31=0,100,acacia_stairs
+rule32=0,100,acacia_stairs-1
+rule33=0,100,wooden_slab-4
 
 
 layer

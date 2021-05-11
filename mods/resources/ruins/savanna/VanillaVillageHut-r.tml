@@ -16,10 +16,10 @@ rule1=0,100,preserveBlock
 rule2=0,100,cobblestone,cobblestone,cobblestone,mossy_cobblestone
 rule3=0,100,dirt
 rule4=0,50,stone_stairs-1
-rule5=0,90,log
-rule6=0,90,planks
+rule5=0,90,log2
+rule6=0,90,planks-4
 rule7=0,10,glass_pane
-rule8=0,40,log
+rule8=0,40,log2
 
 
 layer

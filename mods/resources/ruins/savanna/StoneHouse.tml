@@ -18,8 +18,8 @@ preserve_plants=0
 rule1=0,100,air,double_stone_slab,stone_slab
 rule2=0,100,cobblestone,mossy_cobblestone
 rule3=1,50,cobblestone,mossy_cobblestone
-rule4=1,50,planks
-rule5=2,33,planks
+rule4=1,50,planks-4
+rule5=2,33,planks-4
 
 layer
 2,2,2,2,2,2,2
