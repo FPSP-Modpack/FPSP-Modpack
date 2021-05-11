@@ -1,8 +1,14 @@
+// Created by glowredman
+
+
+
+// --- Import ---
+
 import mods.nei.NEI;
 
 
 
-// HIDE
+// --- Hide ---
 
 NEI.hide(<minecraft:mob_spawner:*>);
 NEI.hide(<Botania:gaiaHeadBlock>);
@@ -19,7 +25,7 @@ NEI.hide(<magicalcrops:CropBooster3>);
 
 
 
-// ADD
+// --- Add Entry ---
 
 NEI.addEntry(<minecraft:mob_spawner>);
 NEI.addEntry(<ExtraUtilities:drum>);

@@ -1,9 +1,15 @@
+// Created by glowredman
+
+
+
+// --- Import ---
+
 import minetweaker.item.IIngredient;
 import minetweaker.item.IItemStack;
 
 
 
-// VALUES
+// --- Values ---
 
 val bonus = "bonusChest";
 val dungeon = "dungeonChest";
@@ -21,22 +27,16 @@ val tower = "wizardrywizardTower";
 
 
 
-// REMOVE
+// --- Loot (Remove) ---
 
 removeLoot(bonus, <*>);
-removeLoot(dungeon, <headcrumbs:head>);
-removeLoot(mineshaft, <headcrumbs:head>);
-removeLoot(pyramid, <headcrumbs:head>);
-removeLoot(jungleChest, <headcrumbs:head>);
-removeLoot(fortress, <headcrumbs:head>);
-removeLoot(stronghold, <headcrumbs:head>);
-removeLoot(library, <headcrumbs:head>);
 
 
 
-// ADD
+// --- Loot (Add) ---
 
 addLoot1(bonus, <minecraft:rotten_flesh>.withTag({display: {Lore: ["N00B"]}}), 1);
+addLoot1(blacksmith, <minecraft:spawn_egg:120>, 1);
 addLoot1(jungleChest, <minecraft:bow>.withTag({ench: [{lvl: 1, id: 51}], display: {Lore: ["Don't ask me to explain", "what a snake eating it's tail", "has to do with a bow.", "I'm sure it's profound and junk."], Name: "Ouroboros Bow"}}), 1);
 addLoot1(pyramid, <minecraft:bow>.withTag({ench: [{lvl: 5, id: 48}, {lvl: 10, id: 50}, {lvl: 1, id: 51}, {lvl: 3, id: 21}, {lvl: 10, id: 34}], display: {Lore: ["Talk to him? But the Orb of Ra", "is in Egypt. I can't...", "He's a Sun God, Rainie.", "He's the Sun. He's out there", "RIGHT NOW. See him? Talk to", "him before he sets.", "...but ask politely..."], Name: "Sun Bow"}}), 1);
 addLoot1(blacksmith, <minecraft:iron_sword>.withTag({ench: [{lvl: 5, id: 16}, {lvl: 5, id: 34}], display: {Lore: ["Become a part of the Klok", "Become a gear"], Name: "Knight's Sword"}}), 1);
@@ -47,7 +47,7 @@ addLoot1(mineshaft, <minecraft:golden_sword>.withTag({ench: [{lvl: 10, id: 19}, 
 
 
 
-// FUNCTIONS
+// --- Functions ---
 
 function removeLoot(lootTable as string, item as IIngredient) {
     vanilla.loot.removeChestLoot(lootTable, item);
