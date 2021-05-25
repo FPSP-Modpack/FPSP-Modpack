@@ -2,6 +2,12 @@
 
 
 
+// --- Import ---
+
+import minetweaker.item.IItemStack;
+
+
+
 // --- Smelting (Set Burn Time) ---
 
 furnace.setFuel(<MorePlanet:sirius-b_item>, 1600 * 64 / 9 / 9);
@@ -22,7 +28,7 @@ furnace.setFuel(<Avaritia:Resource:8>, 34567890);
 
 
 
-// --- Crafting (Remove) ---
+// --- Crafting (Remove Any) ---
 
 recipes.remove(<Ztones:ofanix>);
 recipes.remove(<magicalcrops:UltimateFurnace>);
@@ -43,6 +49,59 @@ recipes.remove(<flansmod:dwBrassDust>);
 recipes.remove(<flansmod:dwRedwood>);
 recipes.remove(<flansmod:dwElectricDust>);
 recipes.remove(<harvestcraft:market>);
+recipes.remove(<rftools:dimletFilterBlock>);
+recipes.remove(<rftools:dimletResearcherBlock>);
+recipes.remove(<rftools:dimletScramblerBlock>);
+recipes.remove(<rftools:dimensionEnscriberBlock>);
+recipes.remove(<rftools:dimensionBuilderBlock>);
+recipes.remove(<rftools:dimensionEditorBlock>);
+recipes.remove(<rftools:dimensionMonitorBlock>);
+recipes.remove(<rftools:dimletWorkbenchBlock>);
+recipes.remove(<rftools:biomeAbsorberBlock>);
+recipes.remove(<rftools:materialAbsorberBlock>);
+recipes.remove(<rftools:liquidAbsorberBlock>);
+recipes.remove(<rftools:timeAbsorberBlock>);
+recipes.remove(<rftools:rfToolsManualDimensionItem>);
+recipes.remove(<rftools:knownDimlet:*>);
+recipes.remove(<rftools:dimletTemplate>);
+recipes.remove(<rftools:emptyDimensionTab>);
+recipes.remove(<rftools:dimensionMonitorItem>);
+recipes.remove(<rftools:phasedFieldGeneratorItem>);
+recipes.remove(<icbmclassic:icbmCExplosive:22>);
+recipes.remove(<icbmclassic:icbmCExplosive:23>);
+recipes.remove(<icbmclassic:icbmCEmpTower>);
+recipes.remove(<icbmclassic:icbmCLauncherScreen:*>);
+recipes.remove(<icbmclassic:icbmCSignalDisrupter>);
+recipes.remove(<icbmclassic:icbmCDefuser>);
+recipes.remove(<icbmclassic:icbmCRemoteDetonator>);
+recipes.remove(<ore:dustGunpowder>);
+recipes.remove(<MorePlanet:uranium_bomb>);
+recipes.remove(<ProjectE:transmutation_table>);
+recipes.remove(<ProjectE:item.pe_transmutation_tablet>);
+recipes.remove(<supersolarpanel:bluecomponent>);
+recipes.remove(<supersolarpanel:greencomponent>);
+recipes.remove(<supersolarpanel:redcomponent>);
+recipes.remove(<voltzengine:gems:*>);
+recipes.remove(<voltzengine:veSheetMetal:*>);
+recipes.remove(<voltzengine:veSheetMetalTools:*>);
+recipes.remove(<voltzengine:veSimpleTools:*>);
+recipes.remove(<voltzengine:veCircuits:*>);
+recipes.remove(<voltzengine:veCraftingParts:*>);
+recipes.remove(<voltzengine:veRod:*>);
+recipes.remove(<voltzengine:veGear:*>);
+recipes.remove(<voltzengine:veScrew:*>);
+recipes.remove(<voltzengine:veWire:*>);
+recipes.remove(<voltzengine:veNugget:*>);
+recipes.remove(<voltzengine:vePlate:*>);
+
+
+
+// --- Crafting (Remove Shaped) ---
+
+recipes.removeShaped(<IC2:blockMetal:3>,
+ [[<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
+  [<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
+  [<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>]]);
 
 
 
@@ -71,6 +130,66 @@ recipes.addShapeless(<minecraft:iron_ingot> * 4,
 
 recipes.addShapeless(<techreborn:ingot:19> * 4,
  [<fpsp:item.cell:8>.giveBack(<IC2:itemCellEmpty>), <fpsp:item.item:117>.reuse()]);
+
+recipes.addShapeless(<minecraft:fish>,
+ [<berriespp:foodGoldfish>]);
+
+recipes.addShapeless(<harvestcraft:riceseedItem>,
+ [<ore:cropRice>]);
+
+recipes.addShapeless(<harvestcraft:seaweedseedItem>,
+ [<ore:cropSeaweed>]);
+
+recipes.addShapeless(<harvestcraft:cranberryseedItem>,
+ [<ore:cropCranberry>]);
+
+recipes.addShapeless(<minecraft:gunpowder>,
+ [<ore:dustSaltpeter>, <ore:dustSaltpeter>, <ore:dustSulfur>, <ore:dustCharcoal>]);
+
+recipes.addShapeless(<minecraft:wool> * 8,
+ [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>, <ore:blockWool>, <ore:blockWool>, <ore:blockWool>, <ore:blockWool>, <ore:blockWool>, <techreborn:cell:5>]);
+
+recipes.addShapeless(<minecraft:glass> * 8,
+ [<minecraft:stained_glass:*>, <minecraft:stained_glass:*>, <minecraft:stained_glass:*>, <minecraft:stained_glass:*>, <minecraft:stained_glass:*>, <minecraft:stained_glass:*>, <minecraft:stained_glass:*>, <minecraft:stained_glass:*>, <techreborn:cell:5>]);
+
+recipes.addShapeless(<minecraft:hardened_clay> * 8,
+ [<minecraft:stained_hardened_clay:*>, <minecraft:stained_hardened_clay:*>, <minecraft:stained_hardened_clay:*>, <minecraft:stained_hardened_clay:*>, <minecraft:stained_hardened_clay:*>, <minecraft:stained_hardened_clay:*>, <minecraft:stained_hardened_clay:*>, <minecraft:stained_hardened_clay:*>, <techreborn:cell:5>]);
+
+recipes.addShapeless(<minecraft:glass_pane> * 8,
+ [<minecraft:stained_glass_pane:*>, <minecraft:stained_glass_pane:*>, <minecraft:stained_glass_pane:*>, <minecraft:stained_glass_pane:*>, <minecraft:stained_glass_pane:*>, <minecraft:stained_glass_pane:*>, <minecraft:stained_glass_pane:*>, <minecraft:stained_glass_pane:*>, <techreborn:cell:5>]);
+
+recipes.addShapeless(<minecraft:carpet> * 8,
+ [<minecraft:carpet:*>, <minecraft:carpet:*>, <minecraft:carpet:*>, <minecraft:carpet:*>, <minecraft:carpet:*>, <minecraft:carpet:*>, <minecraft:carpet:*>, <minecraft:carpet:*>, <techreborn:cell:5>]);
+
+recipes.addShapeless(<minecraft:glass> * 8,
+ [<MineFactoryReloaded:stainedglass.block:*>, <MineFactoryReloaded:stainedglass.block:*>, <MineFactoryReloaded:stainedglass.block:*>, <MineFactoryReloaded:stainedglass.block:*>, <MineFactoryReloaded:stainedglass.block:*>, <MineFactoryReloaded:stainedglass.block:*>, <MineFactoryReloaded:stainedglass.block:*>, <MineFactoryReloaded:stainedglass.block:*>, <techreborn:cell:5>]);
+
+recipes.addShapeless(<minecraft:glass_pane> * 8,
+ [<MineFactoryReloaded:stainedglass.pane:*>, <MineFactoryReloaded:stainedglass.pane:*>, <MineFactoryReloaded:stainedglass.pane:*>, <MineFactoryReloaded:stainedglass.pane:*>, <MineFactoryReloaded:stainedglass.pane:*>, <MineFactoryReloaded:stainedglass.pane:*>, <MineFactoryReloaded:stainedglass.pane:*>, <MineFactoryReloaded:stainedglass.pane:*>, <techreborn:cell:5>]);
+
+recipes.addShapeless(<GalaxySpace:futureglass> * 8,
+ [<GalaxySpace:futureglasses:*>, <GalaxySpace:futureglasses:*>, <GalaxySpace:futureglasses:*>, <GalaxySpace:futureglasses:*>, <GalaxySpace:futureglasses:*>, <GalaxySpace:futureglasses:*>, <GalaxySpace:futureglasses:*>, <GalaxySpace:futureglasses:*>, <techreborn:cell:5>]);
+
+recipes.addShapeless(<minecraft:obsidian>,
+ [<HardcoreEnderExpansion:obsidian_end>]);
+
+recipes.addShapeless(<minecraft:wheat_seeds> * 2,
+ [<ore:cropWheat>, <ore:cropWheat>]);
+
+recipes.addShapeless(<TwilightForest:item.fieryBlood>,
+ [<TwilightForest:item.fieryTears>]);
+
+recipes.addShapeless(<TwilightForest:item.fieryBlood>,
+ [<minecraft:glass_bottle>, <ThermalFoundation:material:512>, <AWWayofTime:bucketLife>]);
+
+recipes.addShapeless(<voltzengine:veCircuits>,
+ [<IC2:itemPartCircuit>]);
+
+recipes.addShapeless(<voltzengine:veCircuits:1>,
+ [<IC2:itemPartCircuitAdv>]);
+
+recipes.addShapeless(<voltzengine:veCircuits:2>,
+ [<techreborn:part:5>]);
 
 
 
@@ -191,3 +310,100 @@ recipes.addShaped(<harvestcraft:market>,
  [[<ExtraUtilities:trading_post>, <Railcraft:machine.alpha:6>, <ExtraUtilities:trading_post>],
   [<Railcraft:machine.alpha:6>, <minecraft:spawn_egg:120>, <Railcraft:machine.alpha:6>],
   [<ExtraUtilities:trading_post>, <Railcraft:machine.alpha:6>, <ExtraUtilities:trading_post>]]);
+
+recipes.addShapedMirrored(<berriespp:itemLens>,
+ [[null, null, <ore:paneGlassColorless>],
+  [null, <ore:stickWood>, null],
+  [<ore:stickWood>, null, null]]);
+
+recipes.addShaped(<GalacticraftAmunRa:tile.baseBlockRock:11>,
+ [[<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
+  [<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
+  [<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>]]);
+
+recipes.addShaped(<icbmclassic:icbmCExplosive:22>,
+ [[<ProjectE:item.pe_matter>, <ProjectE:item.pe_matter>, <ProjectE:item.pe_matter>],
+  [<ProjectE:item.pe_matter>, <icbmclassic:icbmCExplosive:15>, <ProjectE:item.pe_matter>],
+  [<ProjectE:item.pe_matter>, <ProjectE:item.pe_matter>, <ProjectE:item.pe_matter>]]);
+
+recipes.addShaped(<icbmclassic:icbmCExplosive:23>,
+ [[<ProjectE:item.pe_matter:1>, <ProjectE:item.pe_matter:1>, <ProjectE:item.pe_matter:1>],
+  [<ProjectE:item.pe_matter:1>, <icbmclassic:icbmCExplosive:22>, <ProjectE:item.pe_matter:1>],
+  [<ProjectE:item.pe_matter:1>, <ProjectE:item.pe_matter:1>, <ProjectE:item.pe_matter:1>]]);
+
+recipes.addShaped(<icbmclassic:icbmCEmpTower>,
+ [[<ore:plateSteel>, <IC2:itemCable:1>, <ore:plateSteel>],
+  [<IC2:blockElectric>, <ore:circuitElite>, <IC2:blockElectric>],
+  [<ore:plateSteel>, <IC2:itemRecipePart:1>, <ore:plateSteel>]]);
+
+recipes.addShaped(<icbmclassic:icbmCLauncherScreen>,
+ [[<ore:blockGlass>, <ore:blockGlass>, <ore:blockGlass>],
+  [<ore:blockGlass>, <ore:circuitBasic>, <ore:blockGlass>],
+  [<ore:blockGlass>, <IC2:itemCable:1>, <ore:blockGlass>]]);
+
+recipes.addShaped(<icbmclassic:icbmCLauncherScreen:1>,
+ [[<ore:ingotSteel>, <icbmclassic:icbmCLauncherScreen>, <ore:ingotSteel>],
+  [<ore:ingotSteel>, <ore:circuitAdvanced>, <ore:ingotSteel>],
+  [<ore:ingotSteel>, <IC2:itemCable:1>, <ore:ingotSteel>]]);
+
+recipes.addShaped(<icbmclassic:icbmCLauncherScreen:2>,
+ [[<ore:ingotGold>, <icbmclassic:icbmCLauncherScreen:1>, <ore:ingotGold>],
+  [<ore:ingotGold>, <ore:circuitElite>, <ore:ingotGold>],
+  [<ore:ingotGold>, <IC2:itemCable:1>, <ore:ingotGold>]]);
+
+recipes.addShaped(<icbmclassic:icbmCSignalDisrupter>,
+ [[<IC2:itemCable:1>, <IC2:itemCable:1>, <IC2:itemCable:1>],
+  [<ore:ingotIron>, <ore:circuitBasic>, <ore:ingotIron>],
+  [<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]]);
+
+recipes.addShapedMirrored(<icbmclassic:icbmCDefuser>,
+ [[<IC2:itemCable:1>, null, null],
+  [null, <minecraft:iron_axe>, null],
+  [null, null, <ore:circuitAdvanced>]]);
+
+recipes.addShapedMirrored(<icbmclassic:icbmCRemoteDetonator>,
+ [[<ore:dustRedstone>, <ore:ingotSteel>, <ore:ingotSteel>],
+  [<ore:ingotSteel>, <ore:circuitAdvanced>, <minecraft:stone_button>],
+  [<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>]]);
+
+recipes.addShaped(<supersolarpanel:bluecomponent> * 6,
+ [[<AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>],
+  [<ore:dyeBlue>, <ore:dyeBlue>, <ore:dyeBlue>],
+  [<AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>]]);
+
+recipes.addShaped(<supersolarpanel:greencomponent> * 6,
+ [[<AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>],
+  [<ore:dyeGreen>, <ore:dyeGreen>, <ore:dyeGreen>],
+  [<AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>]]);
+
+recipes.addShaped(<supersolarpanel:redcomponent> * 6,
+ [[<AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>],
+  [<ore:dyeRed>, <ore:dyeRed>, <ore:dyeRed>],
+  [<AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>, <AdvancedSolarPanel:asp_crafting_items:5>]]);
+
+recipes.addShaped(<techreborn:highlyadvancedmachine>,
+ [[<ore:plateChromium>, <ore:plateTitanium>, <ore:plateChromium>],
+  [<ore:plateTitanium>, <ore:machineAdvanced>, <ore:plateTitanium>],
+  [<ore:plateChromium>, <ore:plateTitanium>, <ore:plateChromium>]]);
+
+tiny2full(<aobd:dustTinyUranium>, <techreborn:dust:61>);
+tiny2full(<aobd:dustTinyAluminium>, <techreborn:dust:1>);
+tiny2full(<aobd:dustTinyTitanium>, <techreborn:dust:58>);
+tiny2full(<aobd:dustTinySteel>, <techreborn:dust:54>);
+tiny2full(<aobd:dustTinyNickel>, <techreborn:dust:35>);
+tiny2full(<aobd:dustTinyPlatinum>, <techreborn:dust:40>);
+tiny2full(<aobd:dustTinyTungsten>, <techreborn:dust:60>);
+tiny2full(<aobd:dustTinyIridium>, <aobd:dustIridium>);
+tiny2full(<aobd:dustTinyPlutonium>, <techreborn:dust:41>);
+tiny2full(<aobd:dustTinyZinc>, <techreborn:dust:64>);
+
+
+
+// --- Functions ---
+
+function tiny2full(tiny as IItemStack, full as IItemStack) {
+  recipes.addShaped(full,
+   [[tiny, tiny, tiny],
+    [tiny, tiny, tiny],
+    [tiny, tiny, tiny]]);
+}

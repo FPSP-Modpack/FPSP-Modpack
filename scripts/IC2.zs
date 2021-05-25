@@ -5,42 +5,41 @@
 // --- Import ---
 
 import mods.ic2.Macerator;
-import mods.ic2.OreWasher;
-import mods.ic2.ThermalCentrifuge;
+import mods.ic2.Compressor;
+import mods.ic2.Extractor;
 
 
 
-// --- Values ---
-
-val stoneDust = <IC2:itemDust:9>;
-
-
-
-// --- Macerator ---
+// --- Macerator (Add) ---
 
 Macerator.addRecipe(<Avaritia:Resource:7> * 8, <ore:record>);
 
 
 
-// --- Ore Washer ---
-/*
-OreWasher.addRecipe([<aobd:crushedPurifiedAluminium>, <techreborn:smallDust:5>, stoneDust], <ore:crushedAluminium>, 1000);
-OreWasher.addRecipe([<aobd:crushedPurifiedNickel>, <aobd:dustTinyCobalt> * 2, stoneDust], <ore:crushedNickel>, 1000);
-OreWasher.addRecipe([<aobd:crushedPurifiedPlutonium>, <aobd:dustTinyUranium> * 2, stoneDust], <ore:crushedPlutonium>, 1000);
-OreWasher.addRecipe([<aobd:crushedPurifiedTitanium>, <techreborn:smallDust>, stoneDust], <ore:crushedTitanium>, 1000);
-OreWasher.addRecipe([<aobd:crushedPurifiedZinc>, <IC2:itemDustSmall:3> * 2, stoneDust], <ore:crushedZinc>, 1000);
+// --- Compressor (Add) ---
+
+Compressor.addRecipe(<ProjRed|Exploration:projectred.exploration.stone>, <ore:dustMarble> * 2);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <BiomesOPlenty:moss> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:listAllmushroom> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:listAllveggie> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:listAllfruit> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:listAllseed> * 16);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:listAllgrain> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:listAllberry> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:listAllspice> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:treeSapling> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:treeLeaves> * 8);
+Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:cropGrass> * 8);
 
 
 
-// --- Thermal Centrifuge ---
+// --- Extractor (Add) ---
 
-ThermalCentrifuge.addRecipe([<techreborn:dust:1>, <techreborn:smallDust:5>, stoneDust], <ore:crushedAluminium>, 520);
-ThermalCentrifuge.addRecipe([<techreborn:dust:1>, <techreborn:smallDust:5>], <ore:crushedPurifiedAluminium>, 520);
-ThermalCentrifuge.addRecipe([<techreborn:dust:35>, <aobd:dustTinyPlatinum>, stoneDust], <ore:crushedNickel>, 1160);
-ThermalCentrifuge.addRecipe([<techreborn:dust:35>, <aobd:dustTinyPlatinum>], <ore:crushedPurifiedNickel>, 1160);
-ThermalCentrifuge.addRecipe([<techreborn:dust:41>, <IC2:itemDustSmall:5>, stoneDust], <ore:crushedPlutonium>, 4920);
-ThermalCentrifuge.addRecipe([<techreborn:dust:41>, <IC2:itemDustSmall:5>], <ore:crushedPurifiedPlutonium>, 4920);
-ThermalCentrifuge.addRecipe([<techreborn:dust:58>, <techreborn:smallDust>, stoneDust], <ore:crushedTitanium>, 960);
-ThermalCentrifuge.addRecipe([<techreborn:dust:58>, <techreborn:smallDust>], <ore:crushedPurifiedTitanium>, 960);
-ThermalCentrifuge.addRecipe([<techreborn:dust:64>, <IC2:itemDustSmall:3>, stoneDust], <ore:crushedZinc>, 1300);
-ThermalCentrifuge.addRecipe([<techreborn:dust:64>, <IC2:itemDustSmall:3>], <ore:crushedPurifiedZinc>, 1300);*/
+Extractor.addRecipe(<minecraft:sugar> * 8, <ore:cropSugarbeet>);
+Extractor.addRecipe(<minecraft:gold_nugget>, <berriespp:foodGoldfish>);
+Extractor.addRecipe(<minecraft:glowstone_dust>, <BiomesOPlenty:flowers:3> * 2);
+Extractor.addRecipe(<minecraft:glowstone_dust>, <BiomesOPlenty:mushrooms:3> * 2);
+Extractor.addRecipe(<minecraft:glowstone_dust> * 8, <BiomesOPlenty:coral1:15> * 2);
+Extractor.addRecipe(<minecraft:glowstone_dust>, <Natura:Glowshroom:*> * 2);
+Extractor.addRecipe(<rftools:dimensionalShardItem>, <rftools:dimensionalBlankBlock>);
+Extractor.addRecipe(<xreliquary:mob_ingredient:4> * 4, <ore:slimeball>);
