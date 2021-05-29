@@ -40,7 +40,7 @@ NEI.hide(<rftools:materialAbsorberBlock>);
 NEI.hide(<rftools:liquidAbsorberBlock>);
 NEI.hide(<rftools:timeAbsorberBlock>);
 NEI.hide(<rftools:rfToolsManualDimensionItem>);
-NEI.hide(<rftools:knownDimlet:*>);
+NEI.hide(<rftools:knownDimlet>);
 NEI.hide(<rftools:dimletTemplate>);
 NEI.hide(<rftools:emptyDimensionTab>);
 NEI.hide(<rftools:realizedDimensionTab>);
