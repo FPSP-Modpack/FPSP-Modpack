@@ -7,6 +7,7 @@
 import mods.techreborn.vacuumFreezer;
 import mods.techreborn.centrifuge;
 import mods.techreborn.chemicalReactorRecipe;
+import mods.techreborn.alloySmelter;
 
 
 
@@ -47,3 +48,11 @@ chemicalReactorRecipe.addRecipe(<fpsp:item.item:88> * 4, <aobd:crushedNorium>, <
 chemicalReactorRecipe.addRecipe(<fpsp:item.item:89> * 4, <aobd:crushedVirinium>, <berriespp:Modifier> * 9, 240, 480);
 chemicalReactorRecipe.addRecipe(<IC2:itemDust:5> * 4, <GalacticraftMars:item.itemBasicAsteroids:3>, <berriespp:Modifier> * 9, 240, 480);
 chemicalReactorRecipe.addRecipe(<techreborn:dust:58> * 4, <GalacticraftMars:item.itemBasicAsteroids:4>, <berriespp:Modifier> * 9, 240, 480);
+
+
+
+// --- Alloy Smelter (Add) ---
+
+alloySmelter.addRecipe(<simplyjetpacks:armorPlatings:2>, <IC2:itemIngot:2> * 10, <simplyjetpacks:armorPlatings:1>, 50, 16);
+alloySmelter.addRecipe(<simplyjetpacks:armorPlatings:3>, <techreborn:ingot:5> * 10, <simplyjetpacks:armorPlatings:2>, 75, 16);
+alloySmelter.addRecipe(<simplyjetpacks:armorPlatings:4>, <ThermalFoundation:material:76> * 10, <simplyjetpacks:armorPlatings:3>, 100, 16);

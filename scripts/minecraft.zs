@@ -101,6 +101,10 @@ recipes.remove(<voltzengine:veScrew:*>);
 recipes.remove(<voltzengine:veWire:*>);
 recipes.remove(<voltzengine:veNugget:*>);
 recipes.remove(<voltzengine:vePlate:*>);
+recipes.remove(<ProjectE:item.pe_philosophers_stone>);
+recipes.remove(<GalacticraftCore:tile.machine:12>);
+recipes.remove(<GalacticraftCore:tile.machine2>);
+recipes.remove(<ExtraUtilities:dark_portal>);
 
 
 
@@ -110,6 +114,16 @@ recipes.removeShaped(<IC2:blockMetal:3>,
  [[<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
   [<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
   [<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>]]);
+
+recipes.removeShaped(<GalacticraftCore:item.engine>,
+ [[null, <minecraft:flint_and_steel>, <minecraft:stone_button>],
+  [<GalacticraftCore:item.heavyPlating>, <GalacticraftCore:item.canister>, <GalacticraftCore:item.heavyPlating>],
+  [<GalacticraftCore:item.heavyPlating>, <GalacticraftCore:item.airVent>, <GalacticraftCore:item.heavyPlating>]]);
+
+recipes.removeShaped(<GalacticraftCore:item.engine>,
+ [[<minecraft:stone_button>, <minecraft:flint_and_steel>, null],
+  [<GalacticraftCore:item.heavyPlating>, <GalacticraftCore:item.canister>, <GalacticraftCore:item.heavyPlating>],
+  [<GalacticraftCore:item.heavyPlating>, <GalacticraftCore:item.airVent>, <GalacticraftCore:item.heavyPlating>]]);
 
 
 
@@ -198,6 +212,15 @@ recipes.addShapeless(<voltzengine:veCircuits:1>,
 
 recipes.addShapeless(<voltzengine:veCircuits:2>,
  [<techreborn:part:5>]);
+
+recipes.addShapeless(<ProjectE:item.pe_fuel:1> * 4,
+ [<ProjectE:item.pe_fuel:2>]);
+
+recipes.addShapeless(<ProjectE:item.pe_fuel> * 4,
+ [<ProjectE:item.pe_fuel:1>]);
+
+recipes.addShapeless(<minecraft:coal> * 4,
+ [<ProjectE:item.pe_fuel>]);
 
 
 
