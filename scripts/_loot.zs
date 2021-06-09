@@ -266,7 +266,6 @@ addLootN(loot4, <ProjectE:item.pe_matter>, 4, 1, 4);
 addLootN(loot4, <ProjectE:item.pe_matter:1>, 2, 1, 2);
 addLootN(loot4, <Railcraft:firestone.raw>, 6, 1, 4);
 addLootN(loot4, <TwilightForest:item.fieryIngot>, 8, 1, 8);
-addLoot1(loot4, <hardcorewither:StarryApple>, 4);
 addLoot1(loot4, <ironbackpacks:diamondBackpack>, 4);
 addLoot1(loot4, <lootbags:lootbag:4>, 20);
 addLootN(loot4, <magicalcrops:4ImperioEssence>, 12, 1, 64);

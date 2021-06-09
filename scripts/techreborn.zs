@@ -56,3 +56,7 @@ chemicalReactorRecipe.addRecipe(<techreborn:dust:58> * 4, <GalacticraftMars:item
 alloySmelter.addRecipe(<simplyjetpacks:armorPlatings:2>, <IC2:itemIngot:2> * 10, <simplyjetpacks:armorPlatings:1>, 50, 16);
 alloySmelter.addRecipe(<simplyjetpacks:armorPlatings:3>, <techreborn:ingot:5> * 10, <simplyjetpacks:armorPlatings:2>, 75, 16);
 alloySmelter.addRecipe(<simplyjetpacks:armorPlatings:4>, <ThermalFoundation:material:76> * 10, <simplyjetpacks:armorPlatings:3>, 100, 16);
+alloySmelter.addRecipe(<GalaxySpace:item.Ingots:2>, <IC2:itemIngot>, <techreborn:ingot>, 200, 128);
+alloySmelter.addRecipe(<GalaxySpace:item.Ingots:2>, <IC2:itemIngot>, <techreborn:dust:1>, 200, 128);
+alloySmelter.addRecipe(<GalaxySpace:item.Ingots:2>, <IC2:itemDust:3>, <techreborn:dust:1>, 200, 128);
+alloySmelter.addRecipe(<GalaxySpace:item.Ingots:2>, <IC2:itemDust:3>, <techreborn:ingot>, 200, 128);

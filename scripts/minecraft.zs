@@ -105,6 +105,7 @@ recipes.remove(<ProjectE:item.pe_philosophers_stone>);
 recipes.remove(<GalacticraftCore:tile.machine:12>);
 recipes.remove(<GalacticraftCore:tile.machine2>);
 recipes.remove(<ExtraUtilities:dark_portal>);
+recipes.remove(<MorePlanet:sulfur_battery:*>);
 
 
 
@@ -221,6 +222,9 @@ recipes.addShapeless(<ProjectE:item.pe_fuel> * 4,
 
 recipes.addShapeless(<minecraft:coal> * 4,
  [<ProjectE:item.pe_fuel>]);
+
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:55>,
+ [<appliedenergistics2:item.ItemMultiMaterial:28>, <appliedenergistics2:item.ItemMultiMaterial:29>]);
 
 
 
@@ -416,6 +420,16 @@ recipes.addShaped(<techreborn:highlyadvancedmachine>,
  [[<ore:plateChromium>, <ore:plateTitanium>, <ore:plateChromium>],
   [<ore:plateTitanium>, <ore:machineAdvanced>, <ore:plateTitanium>],
   [<ore:plateChromium>, <ore:plateTitanium>, <ore:plateChromium>]]);
+
+recipes.addShaped(<MorePlanet:sulfur_battery:100>,
+ [[null, <ore:compressedTin>, null],
+  [<ore:compressedTin>, <ore:dustRedstone>, <ore:compressedTin>],
+  [<ore:compressedTin>, <ore:dustSulfur>, <ore:compressedTin>]]);
+
+recipes.addShaped(<StorageDrawers:upgradeTemplate>,
+ [[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
+  [<ore:stickWood>, <ore:drawerBasic>, <ore:stickWood>],
+  [<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]]);
 
 tiny2full(<aobd:dustTinyUranium>, <techreborn:dust:61>);
 tiny2full(<aobd:dustTinyAluminium>, <techreborn:dust:1>);

@@ -13,6 +13,7 @@ import mods.ic2.Extractor;
 // --- Macerator (Add) ---
 
 Macerator.addRecipe(<Avaritia:Resource:7> * 8, <ore:record>);
+Macerator.addRecipe(<techreborn:dust:58>, <ore:shardTitanium>);
 
 
 
