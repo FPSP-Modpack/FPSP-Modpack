@@ -2,7 +2,7 @@
 
 
 weight=2
-embed_into_distance=1
+embed_into_distance=0
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
 dimensions=4,9,9
 max_leveling=2

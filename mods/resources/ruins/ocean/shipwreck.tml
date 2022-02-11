@@ -2,7 +2,7 @@
 # Created by Ruins mod version 13.0 Ingame Parser
 # authoring Player: AtomicStryker
 
-# biomesToSpawnIn=ocean,deep ocean,kelp forest,ocean oil field,oceanic abyss,coral reef
+biomesToSpawnIn=ocean,deep ocean,kelp forest,ocean oil field,oceanic abyss,coral reef
 weight=5
 embed_into_distance=1
 acceptable_target_blocks=
