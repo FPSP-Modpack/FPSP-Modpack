@@ -226,6 +226,14 @@ recipes.addShapeless(<minecraft:coal> * 4,
 recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:55>,
  [<appliedenergistics2:item.ItemMultiMaterial:28>, <appliedenergistics2:item.ItemMultiMaterial:29>]);
 
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiPart:556>,
+ [<appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>]);
+
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiPart:576>,
+ [<appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>, <ore:dustRedstone>, <ore:dustGlowstone>]);
+
+recipes.addShapeless(<holoinventory:Hologlasses>, [<MineFactoryReloaded:glass.helm>, <ore:circuitBasic>]);
+
 
 
 // --- Crafting (Add Shaped) ---
@@ -233,9 +241,9 @@ recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:55>,
 recipes.addShaped(<minecraft:bread> * 9,
  [[<minecraft:hay_block>, <minecraft:hay_block>, <minecraft:hay_block>]]);
 
-recipes.addShaped(<GalacticraftAmunRa:tile.baseBlockRock:14>,
+recipes.addShaped(<amunra:tile.baseBlockRock:14>,
  [[<ProjectE:matter_block>, <ProjectE:matter_block>, <ProjectE:matter_block>],
-  [<ProjectE:matter_block>, <GalacticraftAmunRa:item.baseItem:26>, <ProjectE:matter_block>],
+  [<ProjectE:matter_block>, <amunra:item.baseItem:26>, <ProjectE:matter_block>],
   [<ProjectE:matter_block>, <ProjectE:matter_block>, <ProjectE:matter_block>]]);
 
 recipes.addShaped(<magicalcrops:UltimateFurnace>,
@@ -351,7 +359,7 @@ recipes.addShapedMirrored(<berriespp:itemLens>,
   [null, <ore:stickWood>, null],
   [<ore:stickWood>, null, null]]);
 
-recipes.addShaped(<GalacticraftAmunRa:tile.baseBlockRock:11>,
+recipes.addShaped(<amunra:tile.baseBlockRock:11>,
  [[<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
   [<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
   [<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>]]);

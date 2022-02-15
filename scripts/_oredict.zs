@@ -89,7 +89,7 @@
 <ore:nuggetBrass>.remove(<voltzengine:veNugget:14>);
 <ore:nuggetPlatinum>.remove(<voltzengine:veNugget:18>);
 
-<ore:oreTitanium>.remove(<GalacticraftAmunRa:tile.basaltMultiOre:9>);
+<ore:oreTitanium>.remove(<amunra:tile.basaltMultiOre:9>);
 <ore:oreAmazonite>.remove(<voltzengine:veGemOre>);
 <ore:oreQuartzSmoky>.remove(<voltzengine:veGemOre:1>);
 <ore:oreOnyxBlack>.remove(<voltzengine:veGemOre:2>);
@@ -135,14 +135,14 @@
 <ore:basalt>.add(<Botania:stone:1>);
 <ore:basalt>.add(<Botania:stone:5>);
 <ore:basalt>.add(<Botania:stone:9>);
-<ore:basalt>.add(<GalacticraftAmunRa:tile.baseBlockRock:1>);
-<ore:basalt>.add(<GalacticraftAmunRa:tile.baseBlockRock:7>);
-<ore:basalt>.add(<GalacticraftAmunRa:tile.baseBlockRock:8>);
+<ore:basalt>.add(<amunra:tile.baseBlockRock:1>);
+<ore:basalt>.add(<amunra:tile.baseBlockRock:7>);
+<ore:basalt>.add(<amunra:tile.baseBlockRock:8>);
 <ore:basalt>.add(<IC2:blockBasalt>);
 <ore:basalt>.add(<ProjRed|Exploration:projectred.exploration.stone:3>);
 <ore:basalt>.add(<ProjRed|Exploration:projectred.exploration.stone:4>);
 
-<ore:basaltCobblestone>.add(<GalacticraftAmunRa:tile.baseBlockRock>);
+<ore:basaltCobblestone>.add(<amunra:tile.baseBlockRock>);
 <ore:basaltCobblestone>.add(<ProjRed|Exploration:projectred.exploration.stone:2>);
 
 <ore:battery10k>.add(<IC2:itemBatRE:*>);
@@ -222,7 +222,7 @@
 
 <ore:gemAlphere>.add(<MorePlanet:alphere>);
 <ore:gemBlackDiamond>.add(<MorePlanet:fronos_item:2>);
-<ore:gemChionite>.add(<GalacticraftAmunRa:item.baseItem:3>);
+<ore:gemChionite>.add(<amunra:item.baseItem:3>);
 <ore:gemIchorius>.add(<MorePlanet:power_crystal>);
 <ore:gemNamerium>.add(<MorePlanet:namerium_crystal>);
 <ore:gemPurpleCrystal>.add(<MorePlanet:polongnius_item:1>);
@@ -266,7 +266,7 @@
 <ore:listAllmeatcooked>.add(<Natura:impmeat:1>);
 <ore:listAllmeatcooked>.add(<TwilightForest:item.venisonCooked>);
 <ore:listAllmeatcooked>.add(<TwilightForest:item.meefSteak>);
-<ore:listAllmeatraw>.add(<GalacticraftAmunRa:item.baseItem:1>);
+<ore:listAllmeatraw>.add(<amunra:item.baseItem:1>);
 <ore:listAllmeatraw>.add(<galaxymod:galaxymod_alienbeefraw>);
 <ore:listAllmeatraw>.add(<MorePlanet:polongnius_food:1>);
 <ore:listAllmeatraw>.add(<Natura:impmeat>);
@@ -301,7 +301,7 @@
 
 <ore:siriusGlowstone>.add(<MorePlanet:sirius_glowstone>);
 
-<ore:treeLeaves>.add(<GalacticraftAmunRa:tile.null>);
+<ore:treeLeaves>.add(<amunra:tile.null>);
 <ore:treeLeaves>.add(<MorePlanet:europa_leaves>);
 <ore:treeLeaves>.add(<MorePlanet:alien_leaves>);
 <ore:treeSapling>.add(<MorePlanet:europa_sapling>);

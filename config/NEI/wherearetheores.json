@@ -152,7 +152,7 @@
         "Thickness: 0,05"
       ]
     },
-    "[GalacticraftAmunRa:tile.baseBlockRock:14;GalacticraftAmunRa:item.baseItem:26": {
+    "[amunra:tile.baseBlockRock:14;amunra:item.baseItem:26": {
       "Mehen Belt": [
         "Asteroid Core:",
         "Probability: 0,9%",
@@ -969,7 +969,7 @@
         "Y-Level: 2 to 127"
       ]
     },
-    "[wildcaves3:FossilBlock;GalacticraftAmunRa:tile.oldConcreteOre:1": {
+    "[wildcaves3:FossilBlock;amunra:tile.oldConcreteOre:1": {
       "Overworld": [
         "Max Vein Size: 7",
         "Attempts per Chunk: 40",
