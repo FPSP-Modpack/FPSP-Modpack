@@ -196,8 +196,8 @@
     },
     "oreHeartium": {
       "Zollus": [
-        "Max Vein Size: 3",
-        "Attempts per Chunk: 4",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 3",
         "Y-Level: 6 to 10"
       ]
     },
@@ -279,8 +279,8 @@
     },
     "oreChalcedony": {
       "Barnarda Ζ": [
-        "Max Vein Size: 2",
-        "Attempts per Chunk: 8",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
         "Y-Level: 32 to 63"
       ]
     },
@@ -292,7 +292,7 @@
       ]
     },
     "orePinkQuartz": {
-      "α Centauri Bb": [
+      "Barnarda Γ": [
         "Max Vein Size: 3",
         "Attempts per Chunk: 5",
         "Y-Level: 10 to 63"
@@ -366,7 +366,7 @@
     },
     "oreIridium": {
       "Vega ב": [
-        "Max Vein Size: 2",
+        "Max Vein Size: 4",
         "Attempts per Chunk: 2",
         "Y-Level: 2 to 15"
       ],
@@ -417,7 +417,7 @@
         "Y-Level: 0 to 63"
       ],
       "Anubis": [
-        "Max Vein Size: 3",
+        "Max Vein Size: 4",
         "Attempts per Chunk: 3",
         "Y-Level: 0 to 15"
       ],
@@ -451,7 +451,7 @@
     },
     "oreMercurianIron": {
       "Mercury": [
-        "Max Vein Size: 2",
+        "Max Vein Size: 4",
         "Attempts per Chunk: 2",
         "Y-Level: 2 to 7"
       ]
@@ -477,8 +477,8 @@
     },
     "oreJade": {
       "Miranda": [
-        "Max Vein Size: 2",
-        "Attempts per Chunk: 6",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 3",
         "Y-Level: 2 to 23"
       ]
     },
@@ -508,8 +508,8 @@
     },
     "oreCitrine": {
       "Venus": [
-        "Max Vein Size: 2",
-        "Attempts per Chunk: 13",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 7",
         "Y-Level: 2 to 255"
       ]
     },
@@ -527,7 +527,7 @@
     },
     "oreMetallic": {
       "Mercury": [
-        "Max Vein Size: 2",
+        "Max Vein Size: 4",
         "Attempts per Chunk: 3",
         "Y-Level: 2 to 15"
       ],
@@ -724,8 +724,8 @@
     },
     "oreTopaz": {
       "Twilight Forest": [
-        "Max Vein Size: 1",
-        "Attempts per Chunk: 15",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
         "Y-Level: 4 to 31",
         "",
         "Only generates in the",
@@ -738,8 +738,8 @@
     },
     "oreTanzanite": {
       "Twilight Forest": [
-        "Max Vein Size: 1",
-        "Attempts per Chunk: 15",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
         "Y-Level: 4 to 31",
         "",
         "Only generates in the",
@@ -752,8 +752,8 @@
     },
     "oreMalachite": {
       "Twilight Forest": [
-        "Max Vein Size: 1",
-        "Attempts per Chunk: 15",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
         "Y-Level: 4 to 31",
         "",
         "Only generates in the",
@@ -778,8 +778,8 @@
         "Y-Level: 2 to 32"
       ],
       "Callisto": [
-        "Max Vein Size: 2",
-        "Attempts per Chunk: 16",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 8",
         "Y-Level: 2 to 127"
       ]
     },
@@ -840,8 +840,8 @@
     },
     "oreAmber": {
       "Twilight Forest": [
-        "Max Vein Size: 1",
-        "Attempts per Chunk: 15",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
         "Y-Level: 4 to 31",
         "",
         "Only generates in the",
@@ -1468,8 +1468,8 @@
         "Y-Level: 32 to 63"
       ],
       "Eden": [
-        "Max Vein Size: 3",
-        "Attempts per Chunk: 5",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
         "Y-Level: 10 to 19"
       ],
       "Dark Asteroids": [
@@ -1822,8 +1822,8 @@
         "Y-Level: 0 to 31"
       ],
       "Purgot": [
-        "Max Vein Size: 3",
-        "Attempts per Chunk: 6",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 4",
         "Y-Level: 2 to 13"
       ],
       "Neper": [
@@ -1863,8 +1863,8 @@
         "large Hollow Hills"
       ],
       "Venus": [
-        "Max Vein Size: 3",
-        "Attempts per Chunk: 11",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 8",
         "Y-Level: 2 to 69"
       ],
       "Barnarda Γ": [
@@ -1903,13 +1903,13 @@
         "Y-Level: 10 to 11"
       ],
       "Fronos": [
-        "Max Vein Size: 2",
-        "Attempts per Chunk: 5",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 3",
         "Y-Level: 0 to 31"
       ],
       "Purgot": [
-        "Max Vein Size: 3",
-        "Attempts per Chunk: 4",
+        "Max Vein Size: 4",
+        "Attempts per Chunk: 3",
         "Y-Level: 2 to 9"
       ],
       "Neper": [
