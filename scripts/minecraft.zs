@@ -106,6 +106,7 @@ recipes.remove(<GalacticraftCore:tile.machine:12>);
 recipes.remove(<GalacticraftCore:tile.machine2>);
 recipes.remove(<ExtraUtilities:dark_portal>);
 recipes.remove(<MorePlanet:sulfur_battery:*>);
+recipes.remove(<Railcraft:machine.beta:6>);
 
 
 
@@ -438,6 +439,11 @@ recipes.addShaped(<StorageDrawers:upgradeTemplate>,
  [[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
   [<ore:stickWood>, <ore:drawerBasic>, <ore:stickWood>],
   [<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]]);
+
+recipes.addShaped(<Railcraft:machine.beta:6>,
+ [[<ore:plateSteel>, <minecraft:bucket>, <ore:plateSteel>],
+  [<minecraft:iron_bars>, <minecraft:fire_charge>, <minecraft:iron_bars>],
+  [<ore:plateSteel>, <minecraft:furnace>, <ore:plateSteel>]]);
 
 tiny2full(<aobd:dustTinyUranium>, <techreborn:dust:61>);
 tiny2full(<aobd:dustTinyAluminium>, <techreborn:dust:1>);
