@@ -206,7 +206,6 @@ addLootN(loot3, <weaponcaseloot:item.weaponcase>, 4, 1, 4);
 addLootN(loot3, <weaponcaseloot:item.weaponcase:1>, 4, 1, 4);
 addLootN(loot3, <weaponcaseloot:item.weaponcase:2>, 4, 1, 4);
 addLootN(loot3, <weaponcaseloot:item.weaponcase:3>, 4, 1, 4);
-addLootN(loot3, <SSTOW:sstow_materials:2>, 10, 1, 8);
 addLoot1(loot3, <lootbags:lootbag:3>, 20);
 addLootBooks(loot3, [[1, 4], [2, 4], [3, 4], [4, 4], [5, 3], [6, 1], [9, 1], [10, 1], [19, 2], [34, 3], [45, 3], [46, 1], [49, 2], [162, 3], [163, 3], [164, 2], [165, 1], [212, 2]]);
 addLootCrops(loot3, modFPSP, ["Trollplant", "Galvania", "Slimeplant", "Milkwart", "Nickelback", "Corpseplant", "Bauxia", "Blazereed", "Corium", "Eggplant"]);
