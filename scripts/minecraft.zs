@@ -107,6 +107,7 @@ recipes.remove(<GalacticraftCore:tile.machine2>);
 recipes.remove(<ExtraUtilities:dark_portal>);
 recipes.remove(<MorePlanet:sulfur_battery:*>);
 recipes.remove(<Railcraft:machine.beta:6>);
+recipes.remove(<Railcraft:machine.alpha:6>);
 
 
 
@@ -444,6 +445,11 @@ recipes.addShaped(<Railcraft:machine.beta:6>,
  [[<ore:plateSteel>, <minecraft:bucket>, <ore:plateSteel>],
   [<minecraft:iron_bars>, <minecraft:fire_charge>, <minecraft:iron_bars>],
   [<ore:plateSteel>, <minecraft:furnace>, <ore:plateSteel>]]);
+
+recipes.addShaped(<Railcraft:machine.alpha:6>,
+ [[<ore:plateSteel>, <ore:paneGlass>, <ore:plateSteel>],
+  [<ore:gemEmerald>, <minecraft:dispenser>, <ore:gemEmerald>],
+  [<ore:plateSteel>, <ore:paneGlass>, <ore:plateSteel>]]);
 
 tiny2full(<aobd:dustTinyUranium>, <techreborn:dust:61>);
 tiny2full(<aobd:dustTinyAluminium>, <techreborn:dust:1>);
