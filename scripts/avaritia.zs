@@ -11,14 +11,21 @@ import mods.avaritia.Compressor;
 
 // --- Values ---
 
-var B = <ore:blockCosmicNeutronium>;
-var G = <Avaritia:Resource:9>;
-var H = <ore:blockHopper>;
-var I = <ore:blockIron>;
-var M = <Avaritia:Resource:1>;
-var N = <ore:ingotCosmicNeutronium>;
-var R = <ore:blockRedstone>;
-var X = null;
+val B = <ore:blockCosmicNeutronium>;
+val C = <ore:blockCrystalMatrix>;
+val E = <EnderIO:blockEndSteelBars>;
+val F = <Avaritia:Resource:5>;
+val G = <ore:gearCosmicNeutronium>;
+val H = <ore:blockHopper>;
+val I = <ore:blockIron>;
+val M = <ore:ingotCrystalMatrix>;
+val N = <ore:ingotCosmicNeutronium>;
+val O = <OpenComputers:item:26>;
+val R = <ore:blockRedstone>;
+val S = <Avaritia:Singularity:3>;
+val T = <ore:chestObsidian>;
+val U = <ore:blockUnstable>;
+val X = null;
 
 
 
@@ -28,6 +35,7 @@ ExtremeCrafting.remove(<Avaritia:Resource:5>);
 ExtremeCrafting.remove(<Avaritia:Cosmic_Meatballs>);
 ExtremeCrafting.remove(<Avaritia:Ultimate_Stew>);
 ExtremeCrafting.remove(<Avaritia:Neutronium_Compressor>);
+ExtremeCrafting.remove(<Avaritia:Resource:6>);
 
 
 
@@ -47,15 +55,33 @@ ExtremeCrafting.addShapeless(<Avaritia:Ultimate_Stew>,
 // --- Extreme Crafting (Add Shaped) ---
 
 ExtremeCrafting.addShaped(<Avaritia:Neutronium_Compressor>,
-   [[I, I, I, H, H, H, I, I, I],
-    [M, X, N, X, X, X, N, X, M],
-    [I, X, N, X, X, X, N, X, I],
-    [M, X, N, X, X, X, N, X, M],
-    [R, G, N, X, B, X, N, G, R],
-    [M, X, N, X, X, X, N, X, M],
-    [I, X, N, X, X, X, N, X, I],
-    [M, X, N, X, X, X, N, X, M],
-    [I, I, I, M, I, M, I, I, I]]);
+ [[I, I, I, H, H, H, I, I, I],
+  [M, X, N, X, X, X, N, X, M],
+  [I, X, N, X, X, X, N, X, I],
+  [M, X, N, X, X, X, N, X, M],
+  [R, G, N, X, B, X, N, G, R],
+  [M, X, N, X, X, X, N, X, M],
+  [I, X, N, X, X, X, N, X, I],
+  [M, X, N, X, X, X, N, X, M],
+  [I, I, I, M, I, M, I, I, I]]);
+
+ExtremeCrafting.addShaped(<OpenComputers:caseCreative>,
+ [[C, C, C, O, O, O, C, C, C],
+  [C, C, C, O, O, O, C, C, C],
+  [C, C, C, O, O, O, C, C, C],
+  [E, E, E, T, T, T, E, E, E],
+  [E, E, E, T, T, T, E, E, E],
+  [E, E, E, T, T, T, E, E, E],
+  [C, C, C, U, U, U, C, C, C],
+  [C, C, C, U, S, U, C, C, C],
+  [C, C, C, U, U, U, C, C, C]]);
+
+ExtremeCrafting.addShaped(<Avaritia:Resource:6> * 11,
+ [[N, N, N, N, N, N, N, N, N],
+  [N, M, F, F, M, F, F, M, N],
+  [N, F, M, M, F, M, M, F, N],
+  [N, M, F, F, M, F, F, M, N],
+  [N, N, N, N, N, N, N, N, N]]);
 
 
 
