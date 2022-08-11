@@ -36,6 +36,12 @@ furnace.remove(<techreborn:ingot:16>);
 
 
 
+// --- Smelting (Add) ---
+
+furnace.addRecipe(<GalaxySpace:item.Ingots:4>, <ore:dustMagnesium>);
+
+
+
 // --- Crafting (Remove Any) ---
 
 recipes.remove(<Ztones:ofanix>);
@@ -127,6 +133,106 @@ recipes.removeShaped(<GalacticraftCore:item.engine>,
  [[<minecraft:stone_button>, <minecraft:flint_and_steel>, null],
   [<GalacticraftCore:item.heavyPlating>, <GalacticraftCore:item.canister>, <GalacticraftCore:item.heavyPlating>],
   [<GalacticraftCore:item.heavyPlating>, <GalacticraftCore:item.airVent>, <GalacticraftCore:item.heavyPlating>]]);
+
+recipes.removeShaped(<MorePlanet:tier_4_rocket_module:4>,
+ [[null, <MorePlanet:diona_item:12>, null],
+  [null, <MorePlanet:tier_4_rocket_module:1>, null],
+  [<MorePlanet:tier_4_rocket_module:1>, null, <MorePlanet:tier_4_rocket_module:1>]]);
+
+recipes.removeShaped(<MorePlanet:tier_7_rocket_module:4>,
+ [[null, <MorePlanet:diona_item:12>, null],
+  [null, <MorePlanet:tier_7_rocket_module:2>, null],
+  [<MorePlanet:tier_7_rocket_module:2>, null, <MorePlanet:tier_7_rocket_module:2>]]);
+
+recipes.removeShaped(<amunra:item.baseItem:16>,
+ [[null, <ore:compressedTitanium>, null],
+  [<ore:compressedTitanium>, <amunra:item.baseItem:15>, <ore:compressedTitanium>],
+  [null, null, null]]);
+
+recipes.removeShaped(<MorePlanet:tier_4_rocket_module:2>,
+ [[<minecraft:stone_button>, <minecraft:flint_and_steel>, null],
+  [<MorePlanet:tier_4_rocket_module:1>, <GalacticraftCore:item.canister>, <MorePlanet:tier_4_rocket_module:1>],
+  [<MorePlanet:tier_4_rocket_module:1>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_4_rocket_module:1>]]);
+
+recipes.removeShaped(<MorePlanet:tier_4_rocket_module:2>,
+ [[null, <minecraft:flint_and_steel>, <minecraft:stone_button>],
+  [<MorePlanet:tier_4_rocket_module:1>, <GalacticraftCore:item.canister>, <MorePlanet:tier_4_rocket_module:1>],
+  [<MorePlanet:tier_4_rocket_module:1>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_4_rocket_module:1>]]);
+
+recipes.removeShaped(<MorePlanet:tier_4_rocket_module:5>,
+ [[<minecraft:stone_button>, <minecraft:flint_and_steel>, null],
+  [<MorePlanet:diona_item:4>, <GalacticraftCore:item.canister>, <MorePlanet:diona_item:4>],
+  [<MorePlanet:diona_item:4>, <GalacticraftCore:item.airVent>, <MorePlanet:diona_item:4>]]);
+
+recipes.removeShaped(<MorePlanet:tier_4_rocket_module:5>,
+ [[null, <minecraft:flint_and_steel>, <minecraft:stone_button>],
+  [<MorePlanet:diona_item:4>, <GalacticraftCore:item.canister>, <MorePlanet:diona_item:4>],
+  [<MorePlanet:diona_item:4>, <GalacticraftCore:item.airVent>, <MorePlanet:diona_item:4>]]);
+
+recipes.removeShaped(<MorePlanet:tier_6_rocket_module>,
+ [[<minecraft:stone_button>, <minecraft:flint_and_steel>, null],
+  [<MorePlanet:tier_6_rocket_module:2>, <GalacticraftCore:item.canister>, <MorePlanet:tier_6_rocket_module:2>],
+  [<MorePlanet:tier_6_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_6_rocket_module:2>]]);
+
+recipes.removeShaped(<MorePlanet:tier_6_rocket_module>,
+ [[null, <minecraft:flint_and_steel>, <minecraft:stone_button>],
+  [<MorePlanet:tier_6_rocket_module:2>, <GalacticraftCore:item.canister>, <MorePlanet:tier_6_rocket_module:2>],
+  [<MorePlanet:tier_6_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_6_rocket_module:2>]]);
+
+recipes.removeShaped(<MorePlanet:tier_7_rocket_module>,
+ [[<minecraft:stone_button>, <minecraft:flint_and_steel>, null],
+  [<MorePlanet:tier_7_rocket_module:2>, <GalacticraftCore:item.canister>, <MorePlanet:tier_7_rocket_module:2>],
+  [<MorePlanet:tier_7_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_7_rocket_module:2>]]);
+
+recipes.removeShaped(<MorePlanet:tier_7_rocket_module>,
+ [[null, <minecraft:flint_and_steel>, <minecraft:stone_button>],
+  [<MorePlanet:tier_7_rocket_module:2>, <GalacticraftCore:item.canister>, <MorePlanet:tier_7_rocket_module:2>],
+  [<MorePlanet:tier_7_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_7_rocket_module:2>]]);
+
+recipes.removeShaped(<MorePlanet:tier_8_rocket_module>,
+ [[<minecraft:stone_button>, <minecraft:flint_and_steel>, null],
+  [<MorePlanet:tier_8_rocket_module:2>, <GalacticraftCore:item.canister>, <MorePlanet:tier_8_rocket_module:2>],
+  [<MorePlanet:tier_8_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_8_rocket_module:2>]]);
+
+recipes.removeShaped(<MorePlanet:tier_8_rocket_module>,
+ [[null, <minecraft:flint_and_steel>, <minecraft:stone_button>],
+  [<MorePlanet:tier_8_rocket_module:2>, <GalacticraftCore:item.canister>, <MorePlanet:tier_8_rocket_module:2>],
+  [<MorePlanet:tier_8_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_8_rocket_module:2>]]);
+
+recipes.removeShaped(<MorePlanet:tier_4_rocket_module:3>,
+ [[<GalacticraftMars:item.itemBasicAsteroids:6>, <minecraft:diamond_block>, <GalacticraftMars:item.itemBasicAsteroids:6>],
+  [<GalacticraftMars:item.itemBasicAsteroids:6>, <GalacticraftCore:item.fuelCanisterPartial:1>, <GalacticraftMars:item.itemBasicAsteroids:6>],
+  [<MorePlanet:tier_4_rocket_module:1>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_4_rocket_module:1>]]);
+
+recipes.removeShaped(<MorePlanet:tier_4_rocket_module:6>,
+ [[<MorePlanet:diona_item:2>, <MorePlanet:diona_block:10>, <MorePlanet:diona_item:2>],
+  [<MorePlanet:diona_item:2>, <GalacticraftCore:item.fuelCanisterPartial:1>, <MorePlanet:diona_item:2>],
+  [<MorePlanet:diona_item:4>, <GalacticraftCore:item.airVent>, <MorePlanet:diona_item:4>]]);
+
+recipes.removeShaped(<MorePlanet:tier_6_rocket_module:1>,
+ [[<MorePlanet:polongnius_item:7>, <MorePlanet:polongnius_block:11>, <MorePlanet:polongnius_item:7>],
+  [<MorePlanet:polongnius_item:7>, <GalacticraftCore:item.fuelCanisterPartial:1>, <MorePlanet:polongnius_item:7>],
+  [<MorePlanet:tier_6_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_6_rocket_module:2>]]);
+
+recipes.removeShaped(<MorePlanet:tier_7_rocket_module:1>,
+ [[<MorePlanet:nibiru_item:2>, <MorePlanet:nibiru_block:10>, <MorePlanet:nibiru_item:2>],
+  [<MorePlanet:nibiru_item:2>, <GalacticraftCore:item.fuelCanisterPartial:1>, <MorePlanet:nibiru_item:2>],
+  [<MorePlanet:tier_7_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_7_rocket_module:2>]]);
+
+recipes.removeShaped(<MorePlanet:tier_8_rocket_module:1>,
+ [[<MorePlanet:fronos_item:4>, <MorePlanet:fronos_ore_block>, <MorePlanet:fronos_item:4>],
+  [<MorePlanet:fronos_item:4>, <GalacticraftCore:item.fuelCanisterPartial:1>, <MorePlanet:fronos_item:4>],
+  [<MorePlanet:tier_8_rocket_module:2>, <GalacticraftCore:item.airVent>, <MorePlanet:tier_8_rocket_module:2>]]);
+
+recipes.removeShaped(<amunra:item.baseItem:14>,
+ [[<ore:compressedTitanium>, <GalacticraftCore:item.steelPole>, <ore:compressedTitanium>],
+  [<GalacticraftCore:item.steelPole>, null, null],
+  [<ore:compressedTitanium>, null, null]]);
+
+recipes.removeShaped(<MorePlanet:tier_7_rocket_module:3>,
+ [[null, <MorePlanet:tier_6_rocket_module:2>, null],
+  [<MorePlanet:tier_7_rocket_module:2>, <MorePlanet:tier_6_rocket_module:2>, <MorePlanet:tier_7_rocket_module:2>],
+  [<MorePlanet:tier_7_rocket_module:2>, null, <MorePlanet:tier_7_rocket_module:2>]]);
 
 
 
