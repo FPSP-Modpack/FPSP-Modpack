@@ -11,6 +11,7 @@ import mods.avaritia.Compressor;
 
 // --- Values ---
 
+val A = <ore:gaiaIngot>;
 val B = <ore:blockCosmicNeutronium>;
 val C = <ore:blockCrystalMatrix>;
 val E = <EnderIO:blockEndSteelBars>;
@@ -18,14 +19,23 @@ val F = <Avaritia:Resource:5>;
 val G = <ore:gearCosmicNeutronium>;
 val H = <ore:blockHopper>;
 val I = <ore:blockIron>;
+val J = <ore:ingotInfinity>;
+val K = <ore:compressedNeutronium>;
+val L = <ore:craftingSuperconductor>;
 val M = <ore:ingotCrystalMatrix>;
 val N = <ore:ingotCosmicNeutronium>;
 val O = <OpenComputers:item:26>;
+val P = <Botania:pool:3>;
+val Q = <ore:circuitUltimate>;
 val R = <ore:blockRedstone>;
 val S = <Avaritia:Singularity:3>;
 val T = <ore:chestObsidian>;
 val U = <ore:blockUnstable>;
+val V = <AFSU:AFSU:*>;
 val X = null;
+val Y = <IC2:blockMachine2:8>;
+val Z = <amunra:item.battery-quantum:*>;
+val o = <GalacticraftCore:item.oxygenTankUltraHeavyFull:*>;
 
 
 
@@ -82,6 +92,30 @@ ExtremeCrafting.addShaped(<Avaritia:Resource:6> * 11,
   [N, F, M, M, F, M, M, F, N],
   [N, M, F, F, M, F, F, M, N],
   [N, N, N, N, N, N, N, N, N]]);
+
+ExtremeCrafting.addShaped(<Botania:pool:1>,
+ [[A, P, J, F, F, F, J, P, A],
+  [A, P, J, J, J, J, J, P, A],
+  [A, P, P, P, P, P, P, P, A],
+  [A, A, A, A, A, A, A, A, A]]);
+
+ExtremeCrafting.addShaped(<GalacticraftCore:item.infiniteBattery>,
+ [[X, X, K, K, L, K, K, X, X],
+  [X, K, K, K, L, K, K, K, X],
+  [K, K, K, Q, Z, Q, K, K, K],
+  [K, K, Q, Z, V, Z, Q, K, K],
+  [K, K, Z, V, Z, V, Z, K, K],
+  [K, K, Q, Z, V, Z, Q, K, K],
+  [K, K, Y, Q, Z, Q, Y, K, K],
+  [K, K, K, K, L, K, K, K, K],
+  [K, K, K, K, L, K, K, K, K]]);
+
+ExtremeCrafting.addShaped(<GalacticraftCore:item.infiniteOxygen>,
+ [[J, F, F, F, J],
+  [J, o, Y, o, J],
+  [J, Y, o, Y, J],
+  [J, o, Y, o, J],
+  [J, J, J, J, J]]);
 
 
 

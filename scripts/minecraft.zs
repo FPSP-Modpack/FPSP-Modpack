@@ -557,6 +557,11 @@ recipes.addShaped(<Railcraft:machine.alpha:6>,
   [<ore:gemEmerald>, <minecraft:dispenser>, <ore:gemEmerald>],
   [<ore:plateSteel>, <ore:paneGlass>, <ore:plateSteel>]]);
 
+recipes.addShaped(<amunra:item.battery-quantum>,
+ [[null, <ore:compressedBlackDiamond>, null],
+  [<ore:compressedBlackDiamond>, <supersolarpanel:enderquantumcomponent>, <ore:compressedBlackDiamond>],
+  [<ore:compressedBlackDiamond>, <ore:craftingSuperconductor>, <ore:compressedBlackDiamond>]]);
+
 tiny2full(<aobd:dustTinyUranium>, <techreborn:dust:61>);
 tiny2full(<aobd:dustTinyAluminium>, <techreborn:dust:1>);
 tiny2full(<aobd:dustTinyTitanium>, <techreborn:dust:58>);
