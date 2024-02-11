@@ -28,6 +28,8 @@ config/draconicevolution
 config/tabbychat/singleplayer
 config/traincraft
 
+CLASSLOADER_TEMP*
+
 mods/1.7.10
 mods/carpentersblocks
 mods/ic2
