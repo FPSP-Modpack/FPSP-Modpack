@@ -41,5 +41,4 @@ Extractor.addRecipe(<minecraft:glowstone_dust>, <BiomesOPlenty:flowers:3> * 2);
 Extractor.addRecipe(<minecraft:glowstone_dust>, <BiomesOPlenty:mushrooms:3> * 2);
 Extractor.addRecipe(<minecraft:glowstone_dust> * 8, <BiomesOPlenty:coral1:15> * 2);
 Extractor.addRecipe(<minecraft:glowstone_dust>, <Natura:Glowshroom:*> * 2);
-Extractor.addRecipe(<rftools:dimensionalShardItem>, <rftools:dimensionalBlankBlock>);
 Extractor.addRecipe(<xreliquary:mob_ingredient:4> * 4, <ore:slimeball>);
