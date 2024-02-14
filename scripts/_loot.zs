@@ -35,7 +35,7 @@ val modIC2 = "IC2";
 
 // --- Loot (Remove) ---
 
-removeLoot(bonus, <*>);
+vanilla.loot.removeChestLoot(bonus, <*>);
 
 
 
@@ -144,7 +144,6 @@ addLoot1(loot2, <harvestthenether:glowFlower>, 3);
 addLoot1(loot2, <harvestthenether:netherGarden>, 5);
 addLootN(loot2, <magicalcrops:2AccioEssence>, 12, 1, 64);
 addLoot1(loot2, <magicalcrops:InfusionStoneWeak>, 4);
-addLootN(loot2, <wizardry:magic_crystal>, 8, 1, 24);
 addLootN(loot2, <ThermalExpansion:Frame:1>, 6, 1, 4);
 addLootN(loot2, <ThermalFoundation:material:74>, 8, 1, 12);
 addLootBooks(loot2, [[17, 5], [18, 5], [61, 3], [62, 3], [80, 4], [105, 4], [125, 3], [126, 5], [127, 3], [128, 5], [129, 4], [190, 5], [191, 5], [192, 3], [196, 1], [211, 3]]);
@@ -183,7 +182,6 @@ addLoot1(loot3, <Ztones:terrainEater>, 3);
 addLoot1(loot3, <Ztones:totemTool>, 3);
 addLootN(loot3, <magicalcrops:3CrucioEssence>, 12, 1, 64);
 addLoot1(loot3, <magicalcrops:InfusionStoneRegular>, 4);
-addLootN(loot3, <rftools:dimensionalShardItem>, 6, 1, 32);
 addLootN(loot3, <techreborn:gem:3>, 8, 1, 8);
 addLootN(loot3, <techreborn:gem:4>, 8, 1, 8);
 addLootN(loot3, <techreborn:gem:5>, 8, 1, 8);
@@ -263,10 +261,6 @@ addLootCrops(loot4, modIC2, ["aurelia", "shining", "coffee"]);
 
 
 // --- Functions ---
-
-function removeLoot(lootTable as string, item as IIngredient) {
-    vanilla.loot.removeChestLoot(lootTable, item);
-}
 
 function addLoot1(lootTable as string, item as IItemStack, weight as float) {
     vanilla.loot.addChestLoot(lootTable, item.weight(weight));

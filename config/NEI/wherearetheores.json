@@ -2075,13 +2075,6 @@
         "Attempts per Chunk: 4",
         "Y-Level: 10 to 59"
       ]
-    },
-    "[wizardry:crystal_ore": {
-      "Twilight Forest": [
-        "Max Vein Size: 6",
-        "Attempts per Chunk: 7",
-        "Y-Level: 5 to 29"
-      ]
     }
   }
 }
