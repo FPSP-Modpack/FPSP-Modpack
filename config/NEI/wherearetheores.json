@@ -1388,10 +1388,10 @@
     },
     "[GalacticraftCore:tile.fallenMeteor;GalacticraftCore:item.meteoricIronRaw": {
       "§9§oLower is better!": [],
-      "Meteor Frequency: 0,1": [
+      "Meteor Frequency: 0.1": [
         "T Ceti Д"
       ],
-      "Meteor Frequency: 1,5": [
+      "Meteor Frequency: 1.5": [
         "Horus"
       ],
       "Meteor Frequency: 2": [
@@ -1405,7 +1405,7 @@
         "Haumea, Makemake, Vega ב, Eden",
         "Barnarda Γ/Ζ, α Centauri Bb"
       ],
-      "Meteor Frequency: 3,5": [
+      "Meteor Frequency: 3.5": [
         "Koentus, Diona"
       ],
       "Meteor Frequency: 4": [
@@ -1437,7 +1437,7 @@
     "[MorePlanet:fallen_polongnius_meteor;MorePlanet:polongnius_item:2": {
       "§9§oLower is better!": [],
       "Polongnius": [
-        "Meteor Frequency: 1,25"
+        "Meteor Frequency: 1.25"
       ]
     },
     "[MorePlanet:fallen_koentus_meteor;MorePlanet:koentus_item:3": {
@@ -1449,7 +1449,7 @@
     "[MorePlanet:fallen_ice_crystal_meteor;MorePlanet:kapteyn-b_item:5": {
       "§9§oLower is better!": [],
       "Kapteyn B": [
-        "Meteor Frequency: 3,5"
+        "Meteor Frequency: 3.5"
       ]
     },
     "[GalaxySpace:enceladuscrystal;GalaxySpace:barnardaCcrystal;GalaxySpace:item.UnknowCrystal": {
