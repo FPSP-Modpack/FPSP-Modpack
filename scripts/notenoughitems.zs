@@ -11,7 +11,6 @@ import mods.nei.NEI;
 // --- Hide ---
 
 NEI.hide(<minecraft:mob_spawner:*>);
-NEI.hide(<Botania:gaiaHeadBlock>);
 NEI.hide(<ExtraUtilities:drum:*>);
 NEI.hide(<ExtraUtilities:microblocks:*>);
 NEI.hide(<ForgeMicroblock:microblock:*>);

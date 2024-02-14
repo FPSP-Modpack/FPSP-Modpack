@@ -25,7 +25,6 @@ val L = <ore:craftingSuperconductor>;
 val M = <ore:ingotCrystalMatrix>;
 val N = <ore:ingotCosmicNeutronium>;
 val O = <OpenComputers:item:26>;
-val P = <Botania:pool:3>;
 val Q = <ore:circuitUltimate>;
 val R = <ore:blockRedstone>;
 val S = <Avaritia:Singularity:3>;
@@ -92,12 +91,6 @@ ExtremeCrafting.addShaped(<Avaritia:Resource:6> * 11,
   [N, F, M, M, F, M, M, F, N],
   [N, M, F, F, M, F, F, M, N],
   [N, N, N, N, N, N, N, N, N]]);
-
-ExtremeCrafting.addShaped(<Botania:pool:1>,
- [[A, P, J, F, F, F, J, P, A],
-  [A, P, J, J, J, J, J, P, A],
-  [A, P, P, P, P, P, P, P, A],
-  [A, A, A, A, A, A, A, A, A]]);
 
 ExtremeCrafting.addShaped(<GalacticraftCore:item.infiniteBattery>,
  [[X, X, K, K, L, K, K, X, X],

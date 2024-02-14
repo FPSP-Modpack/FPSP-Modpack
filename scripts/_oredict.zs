@@ -132,9 +132,6 @@
 
 // --- OreDictionary (Add) ---
 
-<ore:basalt>.add(<Botania:stone:1>);
-<ore:basalt>.add(<Botania:stone:5>);
-<ore:basalt>.add(<Botania:stone:9>);
 <ore:basalt>.add(<amunra:tile.baseBlockRock:1>);
 <ore:basalt>.add(<amunra:tile.baseBlockRock:7>);
 <ore:basalt>.add(<amunra:tile.baseBlockRock:8>);

@@ -21,7 +21,6 @@ base(<Avaritia:Resource_Block:*>);
 base(<BloodArsenal:blood_infused_iron_block>);
 base(<BloodArsenal:blood_infused_diamond_block>);
 base(<DraconicEvolution:draconium:*>);
-base(<Botania:storage:*>);
 base(<ThermalFoundation:Storage:*>);
 base(<chisel:diamond_block:*>);
 base(<chisel:emerald_block:*>);
