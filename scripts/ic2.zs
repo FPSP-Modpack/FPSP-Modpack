@@ -37,7 +37,6 @@ Compressor.addRecipe(<IC2:itemFuelPlantBall>, <ore:cropGrass> * 8);
 // --- Extractor (Add) ---
 
 Extractor.addRecipe(<minecraft:sugar> * 8, <ore:cropSugarbeet>);
-Extractor.addRecipe(<minecraft:gold_nugget>, <berriespp:foodGoldfish>);
 Extractor.addRecipe(<minecraft:glowstone_dust>, <BiomesOPlenty:flowers:3> * 2);
 Extractor.addRecipe(<minecraft:glowstone_dust>, <BiomesOPlenty:mushrooms:3> * 2);
 Extractor.addRecipe(<minecraft:glowstone_dust> * 8, <BiomesOPlenty:coral1:15> * 2);

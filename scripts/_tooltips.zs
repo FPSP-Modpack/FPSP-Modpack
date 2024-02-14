@@ -72,7 +72,6 @@ uua(<ore:dustDiamond>, "125000");
 uua(<ore:dustOsmium>, "200000");
 uua(<ore:dustThorium>, "500000");
 uua(<ore:dustUranium>, "1000000");
-uua(<fpsp:item.item:122>, "1000000");
 uua(<ore:dustPlutonium>, "2000000");
 
 <techreborn:techreborn.thermalGenerator>.addTooltip("Generates Energy from hot Stuff like Lava");

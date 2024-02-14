@@ -29,9 +29,6 @@ val loot2 = "fpsp:lootStageII";
 val loot3 = "fpsp:lootStageIII";
 val loot4 = "fpsp:lootStageIV";
 
-val modUsefulCrops = "UsefulCrops";
-val modFPSP = "fpsp";
-val modCropsPP = "berriespp";
 val modIC2 = "IC2";
 
 
@@ -105,9 +102,6 @@ addLootN(loot1, <techreborn:gem:1>, 8, 1, 8);
 addLootN(loot1, <techreborn:gem:2>, 8, 1, 8);
 addLootN(loot1, <techreborn:ingot:8>, 8, 1, 8);
 addLootN(loot1, <GalacticraftCore:item.basicItem:2>, 10, 1, 16);
-addLootCrops(loot1, modUsefulCrops, ["gray tulip", "light gray tulip", "lime tulip", "orange tulip", "blue tulip", "magenta tulip"]);
-addLootCrops(loot1, modFPSP, ["Flax", "Olivia"]);
-addLootCrops(loot1, modCropsPP, ["Dark Oak Bonsai", "Oak Bonsai", "Birch Bonsai", "Acacia Bonsai", "Jungle Bonsai", "Spruce Bonsai", "Eyebulb", "Barley", "Berry", "Blackberry", "Blueberry", "Huckleberry", "Ivy", "Maloberry", "Raspberry", "Strawberry", "Turnip", "Vines", "Waterlilly", "Wild Carrots"]);
 addLootCrops(loot1, modIC2, ["pumpkin", "wheat", "blackthorn", "brownMushroom", "redMushroom", "carrots", "cyazint", "dandelion", "melon", "potato", "reed", "rose", "tulip", ]);
 
 # Loot Games Stage II
@@ -159,8 +153,6 @@ addLootN(loot2, <ThermalFoundation:material:74>, 8, 1, 12);
 addLoot1(loot2, <lootbags:lootbag:2>, 20);
 addLootBooks(loot2, [[17, 5], [18, 5], [61, 3], [62, 3], [80, 4], [105, 4], [125, 3], [126, 5], [127, 3], [128, 5], [129, 4], [190, 5], [191, 5], [192, 3], [196, 1], [211, 3]]);
 addLootCrops(loot2, modIC2, ["stickreed", "cocoa", "venomilia"]);
-addLootCrops(loot2, modFPSP, ["Fertilia", "Zomplant", "Sapphirum", "Spidernip"]);
-addLootCrops(loot2, modCropsPP, ["Blue Glowshroom", "Green Glowshroom", "Purple Glowshroom", "Cactus", "Cotton", "Flowering Vines", "Garlic", "Glowflower", "Glowshroom", "Thornvines", "Blightberry", "Duskberry", "Goldfish Plant", "Moss", "Saguaro Cactus", "Skyberry", "Stingberry", "Sugar Beet"]);
 
 # Loot Games Stage III
 addLootN(loot3, <minecraft:emerald>, 8, 1, 8);
@@ -208,10 +200,7 @@ addLootN(loot3, <weaponcaseloot:item.weaponcase:2>, 4, 1, 4);
 addLootN(loot3, <weaponcaseloot:item.weaponcase:3>, 4, 1, 4);
 addLoot1(loot3, <lootbags:lootbag:3>, 20);
 addLootBooks(loot3, [[1, 4], [2, 4], [3, 4], [4, 4], [5, 3], [6, 1], [9, 1], [10, 1], [19, 2], [34, 3], [45, 3], [46, 1], [49, 2], [162, 3], [163, 3], [164, 2], [165, 1], [212, 2]]);
-addLootCrops(loot3, modFPSP, ["Trollplant", "Galvania", "Slimeplant", "Milkwart", "Nickelback", "Corpseplant", "Bauxia", "Blazereed", "Corium", "Eggplant"]);
 addLootCrops(loot3, modIC2, ["ferru", "cyprium", "plumbiscus", "hops", "netherWart", "terraWart", "eatingplant", "stagnium", "redwheat"]);
-addLootCrops(loot3, modUsefulCrops, ["shiliuhuang"]);
-addLootCrops(loot3, modCropsPP, ["Glowing Earth Coral", "Papyrus"]);
 
 # Loot Games Stage IV
 addLootN(loot4, <minecraft:nether_star>, 6, 1, 4);
@@ -277,10 +266,7 @@ addLootN(loot4, <ThermalExpansion:Frame:3>, 6, 1, 4);
 addLootN(loot4, <ThermalFoundation:material:76>, 8, 1, 12);
 addLootN(loot4, <simplyjetpacks:components:70>, 6, 1, 8);
 addLootBooks(loot4, [[0, 4], [7, 3], [16, 5], [20, 2], [21, 3], [32, 5], [33, 1], [35, 3], [48, 5], [50, 1], [51, 1], [52, 5], [130, 1], [131, 1], [160, 3], [161, 3], [180, 5]]);
-addLootCrops(loot4, modFPSP, ["Evil Ore", "Tearstalks", "Creeperweed", "Lazulia", "Withereed", "Liveroots", "Meatrose"]);
 addLootCrops(loot4, modIC2, ["aurelia", "shining", "coffee"]);
-addLootCrops(loot4, modUsefulCrops, ["blue orchidaceae"]);
-addLootCrops(loot4, modCropsPP, ["Knightly Oreberry"]);
 
 
 

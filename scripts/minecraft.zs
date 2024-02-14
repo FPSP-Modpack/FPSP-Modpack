@@ -262,9 +262,6 @@ recipes.addShapeless(<minecraft:iron_ingot> * 4,
 recipes.addShapeless(<techreborn:ingot:19> * 4,
  [<fpsp:item.cell:8>.giveBack(<IC2:itemCellEmpty>), <fpsp:item.item:117>.reuse()]);
 
-recipes.addShapeless(<minecraft:fish>,
- [<berriespp:foodGoldfish>]);
-
 recipes.addShapeless(<harvestcraft:riceseedItem>,
  [<ore:cropRice>]);
 
@@ -461,11 +458,6 @@ recipes.addShaped(<harvestcraft:market>,
  [[<ExtraUtilities:trading_post>, <Railcraft:machine.alpha:6>, <ExtraUtilities:trading_post>],
   [<Railcraft:machine.alpha:6>, <minecraft:spawn_egg:120>, <Railcraft:machine.alpha:6>],
   [<ExtraUtilities:trading_post>, <Railcraft:machine.alpha:6>, <ExtraUtilities:trading_post>]]);
-
-recipes.addShapedMirrored(<berriespp:itemLens>,
- [[null, null, <ore:paneGlassColorless>],
-  [null, <ore:stickWood>, null],
-  [<ore:stickWood>, null, null]]);
 
 recipes.addShaped(<amunra:tile.baseBlockRock:11>,
  [[<ore:ingotUranium>, <ore:ingotUranium>, <ore:ingotUranium>],
