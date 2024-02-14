@@ -193,7 +193,6 @@
 <ore:dustGlowstone>.add(<galaxymod:galaxymod_brightstonedust>);
 <ore:dustGunpowder>.add(<MorePlanet:europa_gunpowder>);
 <ore:dustSiriusGlowstone>.add(<MorePlanet:sirius_glowstone_dust>);
-<ore:dustSteel>.add(<tc:steeldust>);
 <ore:dustSulfur>.add(<MorePlanet:sirius-b_item:2>);
 <ore:dustXeonium>.add(<MorePlanet:xeonium_dust>);
 
