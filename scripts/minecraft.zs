@@ -343,12 +343,12 @@ recipes.addShaped(<magicalcrops:essence_storage:5>,
   [<fpsp:item.item>, <fpsp:item.item>, <fpsp:item.item>],
   [<fpsp:item.item>, <fpsp:item.item>, <fpsp:item.item>]]);
 
-recipes.addShaped(<GraviSuite:sonicLauncher>,
+recipes.addShaped(<gravisuiteneo:sonicLauncher>,
  [[<GalaxySpace:item.RocketParts:45>, <GraviSuite:itemSimpleItem:2>, <IC2:itemToolMiningLaser:*>],
   [<ore:plateTungstensteel>, <ore:plateTungstensteel>, <ore:battery100M>],
   [null, <IC2:itemPartIridium>, <IC2:itemPartIridium>]]);
 
-recipes.addShaped(<GraviSuite:itemPlasmaCell:27>,
+recipes.addShaped(<gravisuiteneo:itemPlasmaCell:27>,
  [[<AdvancedSolarPanel:asp_crafting_items:8>, <techreborn:coolantNaK360k>, <AdvancedSolarPanel:asp_crafting_items:8>],
   [<techreborn:coolantNaK360k>, <GraviSuite:itemSimpleItem:4>, <techreborn:coolantNaK360k>],
   [<AdvancedSolarPanel:asp_crafting_items:8>, <techreborn:coolantNaK360k>, <AdvancedSolarPanel:asp_crafting_items:8>]]);
