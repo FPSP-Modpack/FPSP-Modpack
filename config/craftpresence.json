@@ -1,0 +1,452 @@
+{
+  "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
+  "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
+  "_schemaVersion": 6,
+  "_lastMCVersionId": 5,
+  "generalSettings": {
+    "detectATLauncherInstance": true,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "detectModrinthPack": true,
+    "detectBiomeData": false,
+    "detectDimensionData": true,
+    "detectWorldData": true,
+    "clientId": "826100102740312114",
+    "defaultIcon": "fpsp",
+    "enableJoinRequests": false,
+    "partyPrivacyLevel": 1,
+    "preferredClientLevel": 3,
+    "resetTimeOnInit": false,
+    "autoRegister": false
+  },
+  "biomeSettings": {
+    "fallbackBiomeIcon": "fpsp",
+    "biomeData": {
+      "default": {
+        "textOverride": "Playing in {biome.name}"
+      }
+    }
+  },
+  "dimensionSettings": {
+    "fallbackDimensionIcon": "fpsp",
+    "dimensionData": {
+      "koentus": {
+        "textOverride": "On Koentus"
+      },
+      "t_ceti_e": {
+        "textOverride": "On T Ceti Д"
+      },
+      "underdark": {
+        "textOverride": "In the Deep Dark"
+      },
+      "mothership_16": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_15": {
+        "textOverride": "On a Mothership"
+      },
+      "the_end": {
+        "textOverride": "In The End"
+      },
+      "mothership_12": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_11": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_14": {
+        "textOverride": "On a Mothership"
+      },
+      "diona": {
+        "textOverride": "On Diona"
+      },
+      "mothership_13": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_6": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_7": {
+        "textOverride": "On a Mothership"
+      },
+      "sirius_b": {
+        "textOverride": "On Sirius B"
+      },
+      "mothership_4": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_5": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_2": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_3": {
+        "textOverride": "On a Mothership"
+      },
+      "planet_xathius": {
+        "textOverride": "On Xathius"
+      },
+      "mothership_1": {
+        "textOverride": "On a Mothership"
+      },
+      "titan": {
+        "textOverride": "On Titan"
+      },
+      "rftools_dimension": {
+        "textOverride": "In a RFTools Dimension"
+      },
+      "planet_oasis": {
+        "textOverride": "On Oasis"
+      },
+      "mothership_8": {
+        "textOverride": "On a Mothership"
+      },
+      "mothership_9": {
+        "textOverride": "On a Mothership"
+      },
+      "polongnius": {
+        "textOverride": "On Polongnius"
+      },
+      "triton": {
+        "textOverride": "On Triton"
+      },
+      "mehen_belt": {
+        "textOverride": "In the Mehen Belt"
+      },
+      "asteroids": {
+        "textOverride": "In the Asteroid Belt"
+      },
+      "planet_eden": {
+        "textOverride": "On Eden"
+      },
+      "io": {
+        "textOverride": "On Io"
+      },
+      "space_station_9": {
+        "textOverride": "On a Space Station"
+      },
+      "haumea": {
+        "textOverride": "On Haumea"
+      },
+      "the_last_millenium": {
+        "textOverride": "In The Last Millenium"
+      },
+      "space_station_8": {
+        "textOverride": "On a Space Station"
+      },
+      "makemake": {
+        "textOverride": "On Makemake"
+      },
+      "planet_zollus": {
+        "textOverride": "On Zollus"
+      },
+      "space_station_5": {
+        "textOverride": "On a Space Station"
+      },
+      "space_station_4": {
+        "textOverride": "On a Space Station"
+      },
+      "maahes": {
+        "textOverride": "On Maahes"
+      },
+      "space_station_7": {
+        "textOverride": "On a Space Station"
+      },
+      "space_station_6": {
+        "textOverride": "On a Space Station"
+      },
+      "kuiper_belt": {
+        "textOverride": "In the Kuiper Belt"
+      },
+      "nibiru": {
+        "textOverride": "On Nibiru"
+      },
+      "space_station_1": {
+        "textOverride": "On a Space Station"
+      },
+      "moon": {
+        "textOverride": "On the Moon"
+      },
+      "space_station_3": {
+        "textOverride": "On a Space Station"
+      },
+      "mothership_10": {
+        "textOverride": "On a Mothership"
+      },
+      "space_station_2": {
+        "textOverride": "On a Space Station"
+      },
+      "space_station_10": {
+        "textOverride": "On a Space Station"
+      },
+      "the_nether": {
+        "textOverride": "In the Nether"
+      },
+      "space_station_11": {
+        "textOverride": "On a Space Station"
+      },
+      "space_station_12": {
+        "textOverride": "On a Space Station"
+      },
+      "space_station_13": {
+        "textOverride": "On a Space Station"
+      },
+      "space_station_14": {
+        "textOverride": "On a Space Station"
+      },
+      "space_station_15": {
+        "textOverride": "On a Space Station"
+      },
+      "neper": {
+        "textOverride": "On Neper"
+      },
+      "callisto": {
+        "textOverride": "On Callisto"
+      },
+      "enceladus": {
+        "textOverride": "On Enceladus"
+      },
+      "horus": {
+        "textOverride": "On Horus"
+      },
+      "mercury": {
+        "textOverride": "On Mercury"
+      },
+      "fronos": {
+        "textOverride": "On Fronos"
+      },
+      "a_centauri_bb": {
+        "textOverride": "On ɑ Centauri Bb"
+      },
+      "planet_purgot": {
+        "textOverride": "On Purgot"
+      },
+      "default": {
+        "textOverride": "In the {dimension.name}"
+      },
+      "venus": {
+        "textOverride": "On Venus"
+      },
+      "ganymede": {
+        "textOverride": "On Ganymede"
+      },
+      "ceres": {
+        "textOverride": "On Ceres"
+      },
+      "europa": {
+        "textOverride": "On Europa"
+      },
+      "oberon": {
+        "textOverride": "On Oberon"
+      },
+      "phobos": {
+        "textOverride": "On Phobos"
+      },
+      "kapteyn_b": {
+        "textOverride": "On Kapteyn B"
+      },
+      "mars": {
+        "textOverride": "On the Mars"
+      },
+      "miranda": {
+        "textOverride": "On Miranda"
+      },
+      "proteus": {
+        "textOverride": "On Proteus"
+      },
+      "pluto": {
+        "textOverride": "On Pluto"
+      },
+      "barnarda_f": {
+        "textOverride": "On Barnarda Ζ"
+      },
+      "deimos": {
+        "textOverride": "On Deimos"
+      },
+      "anubis": {
+        "textOverride": "On Anubis"
+      },
+      "planet_kriffon": {
+        "textOverride": "On Kriffon"
+      },
+      "seth": {
+        "textOverride": "On Seth"
+      },
+      "spectreworld": {
+        "textOverride": "In their Spectre World",
+        "iconOverride": "unknown"
+      },
+      "barnarda_e": {
+        "textOverride": "On Barnarda Ε"
+      },
+      "vega_b": {
+        "textOverride": "On Vega ב"
+      },
+      "barnarda_c": {
+        "textOverride": "On Barnarda Γ"
+      },
+      "dark_asteroids": {
+        "textOverride": "In the Dark Asteroid Belt"
+      }
+    }
+  },
+  "serverSettings": {
+    "fallbackServerIcon": "fpsp",
+    "fallbackServerName": "Minecraft Server",
+    "fallbackServerMotd": "A Minecraft Server",
+    "serverData": {
+      "data-hole.de": {
+        "textOverride": "On data-hole Ψ Psi-Server",
+        "iconOverride": "fpsp"
+      },
+      "default": {
+        "textOverride": "Playing on {server.motd.raw}"
+      }
+    }
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "In the Main Menu"
+    },
+    "loadingData": {
+      "textOverride": "Loading..."
+    },
+    "lanData": {
+      "textOverride": "Playing on a LAN Server"
+    },
+    "singleplayerData": {
+      "textOverride": "Playing Singleplayer"
+    }
+  },
+  "advancedSettings": {
+    "enablePerGui": false,
+    "enablePerItem": false,
+    "enablePerEntity": false,
+    "formatWords": true,
+    "debugMode": false,
+    "verboseMode": false,
+    "refreshRate": 2,
+    "allowPlaceholderPreviews": false,
+    "guiSettings": {
+      "fallbackGuiIcon": "unknown",
+      "guiData": {
+        "default": {
+          "textOverride": "In {screen.name}"
+        }
+      }
+    },
+    "itemMessages": {
+      "default": "Holding {item.message.holding}"
+    },
+    "entitySettings": {
+      "fallbackEntityIcon": "unknown",
+      "targetData": {
+        "default": {
+          "textOverride": "Targeting {entity.target.name}"
+        }
+      },
+      "ridingData": {
+        "default": {
+          "textOverride": "Riding {entity.riding.name}"
+        }
+      }
+    },
+    "allowEndpointIcons": true,
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "playerSkinEndpoint": "https://crafatar.com/avatars/%1$s",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10
+  },
+  "accessibilitySettings": {
+    "tooltipBackground": {
+      "start": {
+        "red": 16,
+        "green": 0,
+        "blue": 16,
+        "alpha": 240
+      }
+    },
+    "tooltipBorder": {
+      "start": {
+        "red": 80,
+        "green": 0,
+        "blue": 255,
+        "alpha": 80
+      },
+      "end": {
+        "red": 40,
+        "green": 0,
+        "blue": 127,
+        "alpha": 80
+      }
+    },
+    "guiBackground": {
+      "start": {
+        "red": 64,
+        "green": 64,
+        "blue": 64,
+        "alpha": 255
+      },
+      "texLocation": "minecraft:textures/gui/options_background.png"
+    },
+    "altGuiBackground": {
+      "start": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 192
+      },
+      "end": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 208
+      }
+    },
+    "languageId": "en_US",
+    "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
+    "stripExtraGuiElements": false,
+    "renderTooltips": true,
+    "configKeyCode": 100
+  },
+  "displaySettings": {
+    "presenceData": {
+      "enabled": true,
+      "useAsMain": false,
+      "details": "{menu.message}{dimension.message}",
+      "gameState": "{server.message} {custom.pack}",
+      "largeImageKey": "{menu.icon}{dimension.icon}",
+      "largeImageText": "{menu.message}{dimension.message}",
+      "smallImageKey": "{server.icon}{pack.icon}",
+      "smallImageText": "{server.message} {custom.pack}",
+      "startTimestamp": "{data.general.time}",
+      "endTimestamp": "",
+      "buttons": {
+        "default": {
+          "label": "Example Text",
+          "url": "https://google.com"
+        }
+      }
+    },
+    "dynamicIcons": {
+      "glowredman": "https://crafatar.com/avatars/1c37e9ccd2ab4cea8100b6945348bb96",
+      "default": "https://via.placeholder.com/256.png"
+    },
+    "dynamicVariables": {
+      "default": "Example Text",
+      "mods": "{general.mods} Mod(s)",
+      "player_info_coordinate": "At {player.position.x}, {player.position.z}",
+      "players": "{server.players.current} / {server.players.max} Players",
+      "player_info_in": "({custom.player_info_health})",
+      "player_info_items": "Items: {item.main_hand.message}",
+      "player_info_out": "As {player.name}",
+      "player_info_health": "Health: {player.health.current}/{player.health.max}",
+      "world_info": "On {world.name}",
+      "pack": "{pack.name}"
+    }
+  }
+}
