@@ -16,8 +16,8 @@
 #     specified biome will be chosen from the biome specific folder.  If not,
 #     it will choose a generic ruin from the folder of the same name.
 
-tries_per_chunk_normal=6
-chance_to_spawn_normal=3
+tries_per_chunk_normal=5
+chance_to_spawn_normal=2
 chance_for_site_normal=75
 
 tries_per_chunk_nether=6
