@@ -40,6 +40,8 @@ mods/*.jar
 mods/*.litemod
 mods/ruins_log.txt
 
+RFB_CLASS_DUMP*
+
 .ReAuth.cfg
 1213309934
 BotaniaVars.dat
