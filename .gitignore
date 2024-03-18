@@ -25,6 +25,7 @@ config/AntiIDConflict
 config/bbm/AI_Improvements/overrides
 config/BloodMagic
 config/draconicevolution
+config/mobsinfo/MobRecipeLoader.cache
 config/tabbychat/singleplayer
 config/traincraft
 
