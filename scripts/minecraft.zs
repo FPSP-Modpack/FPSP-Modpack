@@ -223,6 +223,9 @@ recipes.removeShaped(<MorePlanet:tier_7_rocket_module:3>,
 recipes.addShapeless(<appliedenergistics2:item.ItemMultiPart:500>,
  [<appliedenergistics2:item.ItemMultiPart:340>, <appliedenergistics2:item.ItemMultiMaterial:27>]);
 
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:56>,
+ [<appliedenergistics2:item.ItemMultiMaterial:30>, <appliedenergistics2:item.ItemMultiMaterial:22>, <appliedenergistics2:item.ItemMultiMaterial:23>, <appliedenergistics2:item.ItemMultiMaterial:24>]);
+
 recipes.addShapeless(<flansmod:dwBrassDust> * 4,
  [<ore:dustCopper>, <ore:dustCopper>, <ore:dustCopper>, <ore:dustZinc>]);
 
