@@ -772,11 +772,6 @@
       ]
     },
     "oreChargedCertusQuartz": {
-      "Twilight Forest": [
-        "Max Vein Size: 5",
-        "Attempts per Chunk: 2",
-        "Y-Level: 2 to 32"
-      ],
       "Callisto": [
         "Max Vein Size: 4",
         "Attempts per Chunk: 8",
@@ -795,6 +790,28 @@
         "Max Vein Size: 7",
         "Attempts per Chunk: 17",
         "Y-Level: 10 to 59"
+      ],
+      "Twilight Forest": [
+        "Max Vein Size: 1",
+        "Attempts per Chunk: 18",
+        "Y-Level: 0 to 50"
+      ]
+    },
+    "[Thaumcraft:blockCustomOre:1;Thaumcraft:blockCustomOre:2;Thaumcraft:blockCustomOre:3;Thaumcraft:blockCustomOre:4;Thaumcraft:blockCustomOre:5;Thaumcraft:blockCustomOre:6": {
+      "Twilight Forest": [
+        "Max Vein Size: 7",
+        "Attempts per Chunk: 3",
+        "Y-Level: 2 to 32",
+        "",
+        "Which variants generate",
+        "depends on the biome"
+      ]
+    },
+    "oreApatite": {
+      "Twilight Forest": [
+        "Max Vein Size: 36",
+        "Attempts per Chunk: 0.8",
+        "Y-Level: 2 to 32"
       ]
     },
     "oreSphalerite": {
@@ -953,16 +970,6 @@
       ]
     },
     "oreCertusQuartz": {
-      "Overworld": [
-        "Max Vein Size: 5",
-        "Attempts per Chunk: 25",
-        "Y-Level: 12 to 72"
-      ],
-      "Twilight Forest": [
-        "Max Vein Size: 5",
-        "Attempts per Chunk: 25",
-        "Y-Level: 12 to 72"
-      ],
       "Callisto": [
         "Max Vein Size: 9",
         "Attempts per Chunk: 16",
@@ -2043,30 +2050,6 @@
         "Max Vein Size: 7",
         "Attempts per Chunk: 13",
         "Y-Level: 12 to 51"
-      ]
-    },
-    "orePetroleum": {
-      "Overworld": [
-        "Max Vein Size: 15",
-        "Attempts per Chunk: 3",
-        "Y-Level: 10 to 49"
-      ],
-      "Twilight Forest": [
-        "Max Vein Size: 15",
-        "Attempts per Chunk: 3",
-        "Y-Level: 10 to 49"
-      ]
-    },
-    "oreOilsands": {
-      "Overworld": [
-        "Max Vein Size: 11",
-        "Attempts per Chunk: 2",
-        "Y-Level: 25 to 74"
-      ],
-      "Twilight Forest": [
-        "Max Vein Size: 11",
-        "Attempts per Chunk: 2",
-        "Y-Level: 25 to 74"
       ]
     },
     "oreOlivine": {
