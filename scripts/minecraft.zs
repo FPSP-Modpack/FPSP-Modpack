@@ -96,6 +96,8 @@ recipes.remove(<ExtraUtilities:dark_portal>);
 recipes.remove(<MorePlanet:sulfur_battery:*>);
 recipes.remove(<Railcraft:machine.beta:6>);
 recipes.remove(<Railcraft:machine.alpha:6>);
+recipes.remove(<Avaritia:Resource:8>);
+recipes.remove(<Avaritia:Resource:9>);
 
 
 

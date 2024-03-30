@@ -40,7 +40,6 @@ val o = <GalacticraftCore:item.oxygenTankUltraHeavyFull:*>;
 
 // --- Extreme Crafting (Remove) ---
 
-ExtremeCrafting.remove(<Avaritia:Resource:5>);
 ExtremeCrafting.remove(<Avaritia:Cosmic_Meatballs>);
 ExtremeCrafting.remove(<Avaritia:Ultimate_Stew>);
 ExtremeCrafting.remove(<Avaritia:Neutronium_Compressor>);
@@ -49,9 +48,6 @@ ExtremeCrafting.remove(<Avaritia:Resource:6>);
 
 
 // --- Extreme Crafting (Add Shapeless) ---
-
-ExtremeCrafting.addShapeless(<Avaritia:Resource:5> * 4,
- [<Avaritia:Ultimate_Stew>, <Avaritia:Endest_Pearl>, <Avaritia:Resource:7>, <Avaritia:Resource:8>, <ore:gearCosmicNeutronium>, <Avaritia:big_pearl>, <Avaritia:Beesource>, <Avaritia:Beesource:1>, <AWWayofTime:blockCrystal>, <AdvancedSolarPanel:asp_crafting_items:13>, <DraconicEvolution:chaosFragment:2>, <DraconicEvolution:dezilsMarshmallow>, <ExtraUtilities:block_bedrockium>, <amunra:item.baseItem:26>, <GalaxySpace:item.CompressedPlates:129>, <IC2:itemPartIridium>, <ore:gemAlphere>, <ProjectE:item.pe_matter:1>, <Railcraft:firestone.refined>, <ore:blockFiery>, <ore:blockSteeleaf>, <appliedenergistics2:item.ItemMultiMaterial:47>, <appliedenergistics2:item.ItemMultiMaterial:60>, <galaxymod:galaxymod_purgotoasistablet>, <magicalcrops:essence_storage:5>, <supersolarpanel:enderquantumcomponent>, <ore:blockChromium>, <eternalsingularity:eternal_singularity>]);
 
 ExtremeCrafting.addShapeless(<Avaritia:Cosmic_Meatballs>,
  [<Avaritia:Resource:2>, <ore:listAllporkraw>, <ore:listAllbeefraw>, <ore:listAllchickenraw>, <ore:listAllmuttonraw>, <ore:listAllvenisonraw>, <ore:listAllrabbitraw>, <ore:ingotMeatRaw>, <ore:cropFleshroot>, <amunra:item.baseItem:1>, <MorePlanet:polongnius_food:1>, <Natura:impmeat>, <TwilightForest:item.meefRaw>, <galaxymod:galaxymod_alienbeefraw>]);
