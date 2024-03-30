@@ -44,6 +44,7 @@ ExtremeCrafting.remove(<Avaritia:Cosmic_Meatballs>);
 ExtremeCrafting.remove(<Avaritia:Ultimate_Stew>);
 ExtremeCrafting.remove(<Avaritia:Neutronium_Compressor>);
 ExtremeCrafting.remove(<Avaritia:Resource:6>);
+ExtremeCrafting.remove(<eternalsingularity:eternal_singularity>);
 
 
 
@@ -54,6 +55,9 @@ ExtremeCrafting.addShapeless(<Avaritia:Cosmic_Meatballs>,
 
 ExtremeCrafting.addShapeless(<Avaritia:Ultimate_Stew>,
  [<Avaritia:Resource:2>, <Avaritia:Cosmic_Meatballs>, <fpsp:item.item:72>, <fpsp:item.item:73>, <fpsp:item.item:94>, <fpsp:item.item:108>, <fpsp:item.item:109>, <fpsp:item.item:110>, <fpsp:item.item:111>, <fpsp:item.item:112>, <minecraft:milk_bucket>, <MineFactoryReloaded:bucket.chocolatemilk>, <MineFactoryReloaded:bucket.mushroomsoup>, <MorePlanet:cheese_of_milk_bucket>, <MorePlanet:fronos_bucket>, <MorePlanet:fronos_bucket:1>, <MorePlanet:fronos_bucket:2>, <MorePlanet:fronos_bucket:3>, <MorePlanet:fronos_bucket:4>, <ore:cropTea>, <ore:cropCoffee>, <ore:cropCactus>, <ore:cropVine>, <ore:cropBarnardaCDandelion>, <ore:cropTCetiESeaweed>]);
+
+ExtremeCrafting.addShapeless(<eternalsingularity:eternal_singularity>,
+ [<eternalsingularity:combined_singularity>, <eternalsingularity:combined_singularity:1>, <eternalsingularity:combined_singularity:2>, <eternalsingularity:combined_singularity:3>, <eternalsingularity:combined_singularity:4>, <eternalsingularity:combined_singularity:5>, <eternalsingularity:combined_singularity:6>, <eternalsingularity:combined_singularity:7>, <eternalsingularity:combined_singularity:8>, <eternalsingularity:combined_singularity:9>, <eternalsingularity:combined_singularity:10>, <eternalsingularity:combined_singularity:11>, <eternalsingularity:combined_singularity:12>]);
 
 
 
