@@ -1,0 +1,13 @@
+{
+  "id": "rocket",
+  "condition": {
+    "type": "item.pickup",
+    "item": "GalacticraftCore:item.spaceship"
+  },
+  "page": "FPSP",
+  "x": 0,
+  "y": -5,
+  "icon": {
+    "registryName": "GalacticraftCore:item.spaceship"
+  }
+}

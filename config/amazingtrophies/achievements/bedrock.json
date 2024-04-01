@@ -1,0 +1,13 @@
+{
+  "id": "bedrock",
+  "condition": {
+    "type": "item.pickup",
+    "item": "minecraft:bedrock"
+  },
+  "page": "FPSP",
+  "x": 0,
+  "y": 1,
+  "icon": {
+    "registryName": "minecraft:bedrock"
+  }
+}

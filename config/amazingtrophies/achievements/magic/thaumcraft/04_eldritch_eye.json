@@ -1,0 +1,15 @@
+{
+  "id": "eldritch_eye",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:ItemEldritchObject",
+    "meta": 0
+  },
+  "page": "FPSP",
+  "x": 4,
+  "y": -1,
+  "icon": {
+    "registryName": "Thaumcraft:ItemEldritchObject",
+    "meta": 0
+  }
+}

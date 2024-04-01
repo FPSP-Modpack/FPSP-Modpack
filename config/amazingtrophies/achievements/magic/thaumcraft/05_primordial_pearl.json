@@ -1,0 +1,16 @@
+{
+  "id": "primordial_pearl",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:ItemEldritchObject",
+    "meta": 3
+  },
+  "page": "FPSP",
+  "x": 6,
+  "y": -1,
+  "isSpecial": true,
+  "icon": {
+    "registryName": "Thaumcraft:ItemEldritchObject",
+    "meta": 3
+  }
+}

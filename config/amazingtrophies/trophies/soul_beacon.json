@@ -1,0 +1,26 @@
+{
+  "id": "soul_beacon",
+  "condition": {
+    "type": "achievement",
+    "id": "soul_beacon"
+  },
+  "model": {
+    "type": "complex",
+    "keys": {
+      "A": "minecraft:beacon",
+      "B": "DraconicEvolution:draconium"
+    },
+    "metadata": {
+      "A": 0,
+      "B": 1
+    },
+    "transpose": true,
+    "structure": [
+      ["         ", "         ", "         ", "         ", "    A    ", "         ", "         ", "         ", "         "],
+      ["         ", "         ", "         ", "   BBB   ", "   BBB   ", "   BBB   ", "         ", "         ", "         "],
+      ["         ", "         ", "  BBBBB  ", "  BBBBB  ", "  BBBBB  ", "  BBBBB  ", "  BBBBB  ", "         ", "         "],
+      ["         ", " BBBBBBB ", " BBBBBBB ", " BBBBBBB ", " BBBBBBB ", " BBBBBBB ", " BBBBBBB ", " BBBBBBB ", "         "],
+      ["BBBBBBBBB", "BBBBBBBBB", "BBBBBBBBB", "BBBBBBBBB", "BBBBBBBBB", "BBBBBBBBB", "BBBBBBBBB", "BBBBBBBBB", "BBBBBBBBB"]
+    ]
+  }
+}

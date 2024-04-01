@@ -1,0 +1,12 @@
+{
+  "id": "klein_star_omega",
+  "condition": {
+    "type": "achievement",
+    "id": "klein_star_omega"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "ProjectE:item.pe_klein_star",
+    "meta": 5
+  }
+}

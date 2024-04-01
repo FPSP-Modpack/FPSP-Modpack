@@ -1,0 +1,15 @@
+{
+  "id": "mothership",
+  "condition": {
+    "type": "dimension.join",
+    "provider": "de.katzenpapst.amunra.mothership.MothershipWorldProvider"
+  },
+  "page": "FPSP",
+  "x": 4,
+  "y": -5,
+  "isSpecial": true,
+  "icon": {
+    "registryName": "amunra:tile.machines1",
+    "meta": 2
+  }
+}

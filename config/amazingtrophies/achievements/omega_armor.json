@@ -1,0 +1,10 @@
+{
+  "id": "omega_armor",
+  "_condition": "Handled via code (FPSP Core)",
+  "page": "FPSP",
+  "x": 2,
+  "y": 3,
+  "icon": {
+    "registryName": "AWWayofTime:boundPlateEarth"
+  }
+}

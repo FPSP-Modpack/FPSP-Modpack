@@ -1,0 +1,16 @@
+{
+  "id": "infinity_ingot",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Avaritia:Resource",
+    "meta": 6
+  },
+  "page": "FPSP",
+  "x": 6,
+  "y": -5,
+  "isSpecial": true,
+  "icon": {
+    "registryName": "Avaritia:Resource",
+    "meta": 6
+  }
+}

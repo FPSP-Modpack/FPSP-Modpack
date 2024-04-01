@@ -1,0 +1,13 @@
+{
+  "id": "photonic_solar_panel",
+  "condition": {
+    "type": "item.craft",
+    "item": "supersolarpanel:PhotonicSolarPanel"
+  },
+  "page": "FPSP",
+  "x": 4,
+  "y": 3,
+  "icon": {
+    "registryName": "supersolarpanel:PhotonicSolarPanel"
+  }
+}

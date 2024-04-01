@@ -1,0 +1,12 @@
+{
+  "id": "infinity_ingot",
+  "condition": {
+    "type": "achievement",
+    "id": "infinity_ingot"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "Avaritia:Resource",
+    "meta": 6
+  }
+}

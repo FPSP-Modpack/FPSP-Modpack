@@ -1,0 +1,14 @@
+{
+  "id": "nuclear_reactor",
+  "condition": {
+    "type": "container.open",
+    "containers": "ic2.core.block.reactor.container.ContainerNuclearReactor"
+  },
+  "page": "FPSP",
+  "x": 0,
+  "y": 3,
+  "icon": {
+    "registryName": "IC2:blockGenerator",
+    "meta": 5
+  }
+}

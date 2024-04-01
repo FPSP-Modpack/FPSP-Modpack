@@ -1,0 +1,14 @@
+{
+  "id": "me_controller",
+  "condition": {
+    "type": "item.craft",
+    "item": "appliedenergistics2:tile.BlockController"
+  },
+  "page": "FPSP",
+  "x": 2,
+  "y": -5,
+  "icon": {
+    "registryName": "chisel:futura",
+    "meta": 2
+  }
+}

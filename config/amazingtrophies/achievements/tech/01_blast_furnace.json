@@ -1,0 +1,13 @@
+{
+  "id": "blast_furnace",
+  "condition": {
+    "type": "item.craft",
+    "item": "techreborn:blastFurnace"
+  },
+  "page": "FPSP",
+  "x": -2,
+  "y": -5,
+  "icon": {
+    "registryName": "techreborn:blastFurnace"
+  }
+}

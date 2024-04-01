@@ -1,0 +1,16 @@
+{
+  "id": "klein_star_omega",
+  "condition": {
+    "type": "item.pickup",
+    "item": "ProjectE:item.pe_klein_star",
+    "meta": 5,
+    "nbt": "{StoredEMC: 5.12E7}"
+  },
+  "page": "FPSP",
+  "x": -2,
+  "y": 3,
+  "icon": {
+    "registryName": "ProjectE:item.pe_klein_star",
+    "meta": 5
+  }
+}

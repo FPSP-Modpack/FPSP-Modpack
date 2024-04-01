@@ -1,0 +1,15 @@
+{
+  "id": "infusion",
+  "condition": {
+    "type": "item.pickup",
+    "item": "Thaumcraft:blockStoneDevice",
+    "meta": 2
+  },
+  "page": "FPSP",
+  "x": 2,
+  "y": -1,
+  "icon": {
+    "registryName": "Thaumcraft:blockStoneDevice",
+    "meta": 2
+  }
+}

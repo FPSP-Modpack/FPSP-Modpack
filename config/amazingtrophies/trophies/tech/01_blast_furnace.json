@@ -1,0 +1,25 @@
+{
+  "id": "blast_furnace",
+  "condition": {
+    "type": "achievement",
+    "id": "blast_furnace"
+  },
+  "model": {
+    "type": "complex",
+    "keys": {
+      "C": "techreborn:machinecasing",
+      "~": "techreborn:blastFurnace"
+    },
+    "metadata": {
+      "C": 0,
+      "~": 0
+    },
+    "transpose": true,
+    "structure": [
+      ["   ", "CCC", "CCC", "CCC"],
+      ["   ", "CCC", "C C", "CCC"],
+      ["   ", "CCC", "C C", "CCC"],
+      [" ~ ", "CCC", "CCC", "CCC"]
+    ]
+  }
+}

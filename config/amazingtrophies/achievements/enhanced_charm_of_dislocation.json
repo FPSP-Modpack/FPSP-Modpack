@@ -1,0 +1,13 @@
+{
+  "id": "enhanced_charm_of_dislocation",
+  "condition": {
+    "type": "item.pickup",
+    "item": "DraconicEvolution:teleporterMKII"
+  },
+  "page": "FPSP",
+  "x": 6,
+  "y": 1,
+  "icon": {
+    "registryName": "DraconicEvolution:teleporterMKII"
+  }
+}

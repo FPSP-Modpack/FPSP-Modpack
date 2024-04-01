@@ -1,0 +1,11 @@
+{
+  "id": "photonic_solar_panel",
+  "condition": {
+    "type": "achievement",
+    "id": "photonic_solar_panel"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "supersolarpanel:PhotonicSolarPanel"
+  }
+}

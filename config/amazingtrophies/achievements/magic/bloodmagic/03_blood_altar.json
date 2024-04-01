@@ -1,0 +1,13 @@
+{
+  "id": "blood_altar",
+  "condition": {
+    "type": "item.craft",
+    "item": "AWWayofTime:Altar"
+  },
+  "page": "FPSP",
+  "x": 2,
+  "y": -3,
+  "icon": {
+    "registryName": "AWWayofTime:Altar"
+  }
+}

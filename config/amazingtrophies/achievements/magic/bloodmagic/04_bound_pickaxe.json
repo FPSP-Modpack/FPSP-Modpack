@@ -1,0 +1,13 @@
+{
+  "id": "bound_pickaxe",
+  "condition": {
+    "type": "item.pickup",
+    "item": "AWWayofTime:boundPickaxe"
+  },
+  "page": "FPSP",
+  "x": 4,
+  "y": -3,
+  "icon": {
+    "registryName": "AWWayofTime:boundPickaxe"
+  }
+}

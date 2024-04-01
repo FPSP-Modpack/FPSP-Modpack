@@ -1,0 +1,13 @@
+{
+  "id": "deep_dark",
+  "condition": {
+    "type": "dimension.join",
+    "id": 100
+  },
+  "page": "FPSP",
+  "x": 2,
+  "y": 1,
+  "icon": {
+    "registryName": "ExtraUtilities:dark_portal"
+  }
+}

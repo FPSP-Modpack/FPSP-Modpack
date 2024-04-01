@@ -1,0 +1,13 @@
+{
+  "id": "dezils_marshmallow",
+  "condition": {
+    "type": "item.use.finish",
+    "item": "DraconicEvolution:dezilsMarshmallow"
+  },
+  "page": "FPSP",
+  "x": 4,
+  "y": 1,
+  "icon": {
+    "registryName": "DraconicEvolution:dezilsMarshmallow"
+  }
+}

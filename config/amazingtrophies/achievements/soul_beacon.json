@@ -1,0 +1,11 @@
+{
+  "id": "soul_beacon",
+  "_condition": "Handled via code (FPSP Core)",
+  "page": "FPSP",
+  "x": 6,
+  "y": 3,
+  "icon": {
+    "registryName": "DraconicEvolution:draconium",
+    "meta": 1
+  }
+}

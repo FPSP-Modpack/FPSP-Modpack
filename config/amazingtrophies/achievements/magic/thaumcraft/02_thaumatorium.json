@@ -1,0 +1,14 @@
+{
+  "id": "thaumatorium",
+  "condition": {
+    "type": "container.open",
+    "containers": "thaumcraft.common.container.ContainerThaumatorium"
+  },
+  "page": "FPSP",
+  "x": 0,
+  "y": -1,
+  "icon": {
+    "registryName": "Thaumcraft:blockMetalDevice",
+    "meta": 9
+  }
+}

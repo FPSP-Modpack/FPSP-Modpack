@@ -1,0 +1,13 @@
+{
+  "id": "wand",
+  "condition": {
+    "type": "item.craft",
+    "item": "Thaumcraft:WandCasting"
+  },
+  "page": "FPSP",
+  "x": -2,
+  "y": -1,
+  "icon": {
+    "registryName": "Thaumcraft:WandCasting"
+  }
+}
