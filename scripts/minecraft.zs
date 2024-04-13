@@ -548,6 +548,16 @@ recipes.addShaped(<amunra:item.battery-quantum>,
   [<ore:compressedBlackDiamond>, <supersolarpanel:enderquantumcomponent>, <ore:compressedBlackDiamond>],
   [<ore:compressedBlackDiamond>, <ore:craftingSuperconductor>, <ore:compressedBlackDiamond>]]);
 
+recipes.addShaped(<StorageDrawers:upgrade:7>,
+ [[<ore:gemCrystalFlux>, <ore:stickWood>, <ore:gemCrystalFlux>],
+  [<ore:stickWood>, <StorageDrawers:upgradeTemplate>, <ore:stickWood>],
+  [<ore:gemCrystalFlux>, <ore:stickWood>, <ore:gemCrystalFlux>]]);
+
+recipes.addShaped(<StorageDrawers:upgrade:8>,
+ [[<ore:ingotTungstensteel>, <ore:stickWood>, <ore:ingotTungstensteel>],
+  [<ore:stickWood>, <StorageDrawers:upgradeTemplate>, <ore:stickWood>],
+  [<ore:ingotTungstensteel>, <ore:stickWood>, <ore:ingotTungstensteel>]]);
+
 tiny2full(<aobd:dustTinyUranium>, <techreborn:dust:61>);
 tiny2full(<aobd:dustTinyAluminium>, <techreborn:dust:1>);
 tiny2full(<aobd:dustTinyTitanium>, <techreborn:dust:58>);
