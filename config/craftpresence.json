@@ -299,7 +299,7 @@
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
       "data-hole.de": {
-        "textOverride": "On data-hole Ψ Psi-Server",
+        "textOverride": "On data-hole η Node",
         "iconOverride": "fpsp"
       },
       "default": {
