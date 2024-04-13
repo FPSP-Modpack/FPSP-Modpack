@@ -324,7 +324,14 @@ recipes.addShapeless(<appliedenergistics2:item.ItemMultiPart:556>,
 recipes.addShapeless(<appliedenergistics2:item.ItemMultiPart:576>,
  [<appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>, <appliedenergistics2:item.ItemMultiPart:536>, <ore:dustRedstone>, <ore:dustGlowstone>]);
 
-recipes.addShapeless(<holoinventory:Hologlasses>, [<MineFactoryReloaded:glass.helm>, <ore:circuitBasic>]);
+recipes.addShapeless(<holoinventory:Hologlasses>,
+ [<MineFactoryReloaded:glass.helm>, <ore:circuitBasic>]);
+
+recipes.addShapeless(<BuildCraft|Core:ironGearItem>,
+ [<ore:gearIron>]);
+
+recipes.addShapeless(<BuildCraft|Core:goldGearItem>,
+ [<ore:gearGold>]);
 
 
 
