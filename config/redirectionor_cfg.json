@@ -1,0 +1,6 @@
+{
+  "type": "block",
+  "contains": [
+    "mcp.mobius.opis.data.holders.DataType"
+  ]
+}
