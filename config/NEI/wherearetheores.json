@@ -801,10 +801,7 @@
       "Twilight Forest": [
         "Max Vein Size: 7",
         "Attempts per Chunk: 3",
-        "Y-Level: 2 to 32",
-        "",
-        "Which variants generate",
-        "depends on the biome"
+        "Y-Level: 2 to 32"
       ]
     },
     "oreApatite": {
