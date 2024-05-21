@@ -6,11 +6,13 @@ bin
 blueprints
 cache
 coremods
+coretweaks
 craftpresence
 crash-reports
 CustomDISkins
 data
 dumps
+falsepattern
 Flan
 fonts
 hats
@@ -48,10 +50,12 @@ RFB_CLASS_DUMP*
 BotaniaVars.dat
 minetweaker.log
 hs_err_pid*.log
+localconfig.cfg
 Model*Armour.png
 Model*Boots.png
 OpenComputers*.dll
 options.txt
+optionsof.txt
 ore_distribution.txt
 readme.txt
 stencil*.png
