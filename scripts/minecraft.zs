@@ -98,6 +98,8 @@ recipes.remove(<Railcraft:machine.beta:6>);
 recipes.remove(<Railcraft:machine.alpha:6>);
 recipes.remove(<Avaritia:Resource:8>);
 recipes.remove(<Avaritia:Resource:9>);
+recipes.remove(<AFSU:ALC:*>);
+recipes.remove(<AFSU:AFSU:*>);
 
 
 
@@ -557,6 +559,16 @@ recipes.addShaped(<StorageDrawers:upgrade:8>,
  [[<ore:ingotTungstensteel>, <ore:stickWood>, <ore:ingotTungstensteel>],
   [<ore:stickWood>, <StorageDrawers:upgradeTemplate>, <ore:stickWood>],
   [<ore:ingotTungstensteel>, <ore:stickWood>, <ore:ingotTungstensteel>]]);
+
+recipes.addShaped(<AFSU:ALC>,
+   [[<IC2:itemCable:9>, <IC2:itemPartIridium>, <IC2:itemCable:9>],
+    [<IC2:itemPartIridium>, <IC2:itemCellEmpty:3>, <IC2:itemPartIridium>],
+    [<IC2:itemCable:9>, <IC2:itemPartIridium>, <IC2:itemCable:9>]]);
+
+recipes.addShaped(<AFSU:AFSU>,
+   [[<IC2:blockElectric:2>, <IC2:itemCable:9>, <IC2:blockElectric:2>],
+    [<IC2:itemPartIridium>, <AFSU:ALC:*>, <IC2:itemPartIridium>],
+    [<IC2:blockElectric:2>, <IC2:itemCable:9>, <IC2:blockElectric:2>]]);
 
 tiny2full(<aobd:dustTinyUranium>, <techreborn:dust:61>);
 tiny2full(<aobd:dustTinyAluminium>, <techreborn:dust:1>);
