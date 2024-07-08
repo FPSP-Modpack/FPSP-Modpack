@@ -50,6 +50,7 @@ RFB_CLASS_DUMP*
 BotaniaVars.dat
 minetweaker.log
 hs_err_pid*.log
+knownkeys.txt
 localconfig.cfg
 Model*Armour.png
 Model*Boots.png
