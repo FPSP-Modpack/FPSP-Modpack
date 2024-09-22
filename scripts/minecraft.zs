@@ -530,11 +530,6 @@ recipes.addShaped(<MorePlanet:sulfur_battery:100>,
   [<ore:compressedTin>, <ore:dustRedstone>, <ore:compressedTin>],
   [<ore:compressedTin>, <ore:dustSulfur>, <ore:compressedTin>]]);
 
-recipes.addShaped(<StorageDrawers:upgradeTemplate>,
- [[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
-  [<ore:stickWood>, <ore:drawerBasic>, <ore:stickWood>],
-  [<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]]);
-
 recipes.addShaped(<Railcraft:machine.beta:6>,
  [[<ore:plateSteel>, <minecraft:bucket>, <ore:plateSteel>],
   [<minecraft:iron_bars>, <minecraft:fire_charge>, <minecraft:iron_bars>],
