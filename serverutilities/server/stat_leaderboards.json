@@ -1,0 +1,114 @@
+{
+  "stat.ae2.ItemsExtracted": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.ae2.ItemsInserted": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.animalsBred": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.blockChiseled": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.boatOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.climbOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.damageDealt": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.damageTaken": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.diveOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.drop": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.fallOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.fishCaught": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.flyOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.horseOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.junkFished": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.leaveGame": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.minecartOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.pigOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.playerKills": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.skyhookOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.swimOneCm": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.treasureFished": {
+    "name": "",
+    "reverse": false
+  },
+  "stat.walkOneCm": {
+    "name": "",
+    "reverse": false
+  },
+	"stat.deaths": {
+		"name": "",
+		"reverse": false
+	},
+	"stat.mobKills": {
+		"name": "",
+		"reverse": false
+	},
+	"stat.playOneMinute": {
+		"name": "",
+		"reverse": false
+	},
+	"serverutilities.stat.time_afk": {
+		"name": "",
+		"reverse": false
+	},
+	"stat.jump": {
+		"name": "",
+		"reverse": false
+	}
+}
